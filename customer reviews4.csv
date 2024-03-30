@@ -1,0 +1,921 @@
+Sno;book name;review title;reviewer;reviewer rating;is_verified;date;timestamp;ASIN
+0;The Woman in Me;Unbelievably impressive. Her torn life on paper.;Murderess Marbie;4;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;1668009048
+1;The Woman in Me;What a heartbreaking story;L J;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1668009048
+2;The Woman in Me;Britney you are so invincible! You are an inspiration and helped motivate me to be strong like you.;Jamie;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1668009048
+3;The Woman in Me;Fast Read, Sad Story;KMG;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;1668009048
+4;The Woman in Me;Buy it, it’s worth the read!;Stephanie Brown;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1668009048
+5;The Woman in Me;A must-read for anyone who's seeking freedom or overcoming imposter syndrome;Leanne S.;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1668009048
+6;The Woman in Me;Our Queen has spoken!;Kayce;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;1668009048
+7;The Woman in Me;Beyond the Content, Lies the Conversation;Thomas Ward;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1668009048
+8;The Woman in Me;In her words, heartbreaking and hopeful;katereviews;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;1668009048
+9;The Woman in Me;Britney, do not stop being you!!!;C;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;1668009048
+10;Friends, Lovers, and the Big Terrible Thing: A Memoir;"Not Really a ""Kiss and Tell"" but Maybe a ""Drug and Tell""";California Dreaming;4;TRUE;02/11/2022;Reviewed in the United States November 2, 2022;1250866448
+11;Friends, Lovers, and the Big Terrible Thing: A Memoir;An Absolute Rollercoaster;Cindy R.;4;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1250866448
+12;Friends, Lovers, and the Big Terrible Thing: A Memoir;I hope you read this book;P. Huffman;5;TRUE;11/12/2022;Reviewed in the United States December 11, 2022;1250866448
+13;Friends, Lovers, and the Big Terrible Thing: A Memoir;Brutally honest;John S;4;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1250866448
+14;Friends, Lovers, and the Big Terrible Thing: A Memoir;The One with the Double Review;mandylouplus3;3;TRUE;14/11/2022;Reviewed in the United States November 14, 2022;1250866448
+15;Friends, Lovers, and the Big Terrible Thing: A Memoir;Raw and Real;HEather Wilson;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;1250866448
+16;Friends, Lovers, and the Big Terrible Thing: A Memoir;Wow!;Jessica Madden;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;1250866448
+17;Friends, Lovers, and the Big Terrible Thing: A Memoir;A very sad read;Veronica R Ewing;4;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;1250866448
+18;Friends, Lovers, and the Big Terrible Thing: A Memoir;I had no idea...;TeriH;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1250866448
+19;Friends, Lovers, and the Big Terrible Thing: A Memoir;Bittersweet;Gina;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;1250866448
+20;How to Catch a Turkey;Beeautiful;Lynley Kozinski;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;1492664359
+21;How to Catch a Turkey;Cute read aloud;Carol Mccoy;5;TRUE;04/09/2023;Reviewed in the United States September 4, 2023;1492664359
+22;How to Catch a Turkey;Arrived in perfect shape;patsy;5;TRUE;19/05/2023;Reviewed in the United States May 19, 2023;1492664359
+23;How to Catch a Turkey;Cute Book;Amazon Customer;5;TRUE;10/01/2023;Reviewed in the United States January 10, 2023;1492664359
+24;How to Catch a Turkey;How to catch a Turkey;One bottle was broken and leaked all over box;4;TRUE;26/11/2022;Reviewed in the United States November 26, 2022;1492664359
+25;How to Catch a Turkey;Loved it!;SooZeeBee;5;TRUE;12/11/2022;Reviewed in the United States November 12, 2022;1492664359
+26;How to Catch a Turkey;Great gift;Melissa  Customer;5;TRUE;23/02/2023;Reviewed in the United States February 23, 2023;1492664359
+27;How to Catch a Turkey;Cute book but arrived damaged;Amazon Customer;4;TRUE;12/11/2022;Reviewed in the United States November 12, 2022;1492664359
+28;How to Catch a Turkey;Fun book!;tim moulin;5;TRUE;23/01/2023;Reviewed in the United States January 23, 2023;1492664359
+29;How to Catch a Turkey;3 year old class loved !;Ryann;5;TRUE;26/01/2023;Reviewed in the United States January 26, 2023;1492664359
+30;Fourth Wing (The Empyrean, 1);4.5 Stars;Sandy Farmer;4;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;1649374046
+31;Fourth Wing (The Empyrean, 1);Amazing;Ryan Harris;5;TRUE;04/09/2023;Reviewed in the United States September 4, 2023;1649374046
+32;Fourth Wing (The Empyrean, 1);AMAZING, BEST BOOK OF 2023;Madison;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;1649374046
+33;Fourth Wing (The Empyrean, 1);I will be rereading this book my whole life I loved it so much!;Jeraca;5;TRUE;25/08/2023;Reviewed in the United States August 25, 2023;1649374046
+34;Fourth Wing (The Empyrean, 1);Survival of the fittest on a whole other level;Scottishwolfdemon;5;TRUE;20/09/2023;Reviewed in the United States September 20, 2023;1649374046
+35;Fourth Wing (The Empyrean, 1);A certified page turner;Basil Argyros;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;1649374046
+36;Fourth Wing (The Empyrean, 1);I can’t believe I waited so long to read this epic book;Heidi Dischler;5;TRUE;06/10/2023;Reviewed in the United States October 6, 2023;1649374046
+37;Fourth Wing (The Empyrean, 1);"""We can live as cowards or die as riders.""";Reading with FeFe;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1649374046
+38;Fourth Wing (The Empyrean, 1);Welcome to the World of Navarre!;Diandra Huffman;5;TRUE;09/10/2023;Reviewed in the United States October 9, 2023;1649374046
+39;Fourth Wing (The Empyrean, 1);Lords of Discipline + Dragonriders of Pern + ...steamy romance? But it works!;Greg Barlin;5;TRUE;17/07/2023;Reviewed in the United States July 17, 2023;1649374046
+40;No Brainer (Diary of a Wimpy Kid Book 18);Best Book Ever - from a 10 year old;KMG;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;1419766945
+41;No Brainer (Diary of a Wimpy Kid Book 18);Overall;Danielle R;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;1419766945
+42;No Brainer (Diary of a Wimpy Kid Book 18);Funny as usual;Awesome Guy;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;1419766945
+43;No Brainer (Diary of a Wimpy Kid Book 18);11 Year Old Son LOVED it;L.A. Wook;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1419766945
+44;No Brainer (Diary of a Wimpy Kid Book 18);Great book series for kids;JoAnn Jonin;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1419766945
+45;No Brainer (Diary of a Wimpy Kid Book 18);review from my daughter: good;Zehui Zhong;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;1419766945
+46;No Brainer (Diary of a Wimpy Kid Book 18);My kids have loved for years;Bonnie Dalrymple;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;1419766945
+47;No Brainer (Diary of a Wimpy Kid Book 18);Explains the No Brainer title well;Kevin Roman;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;1419766945
+48;No Brainer (Diary of a Wimpy Kid Book 18);Awesome book;Kendyll Madison;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1419766945
+49;No Brainer (Diary of a Wimpy Kid Book 18);Great series;lludra;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;1419766945
+50;Killers of the Flower Moon: The Osage Murders and the Birth of the FBI;Shameful history, essential reading;jhbandcats;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;307742482
+51;Killers of the Flower Moon: The Osage Murders and the Birth of the FBI;Riveting Account of Murders of Osage Indians to Steal Their Money;Linda;4;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;307742482
+52;Killers of the Flower Moon: The Osage Murders and the Birth of the FBI;Couldn't Put I Down;Janice H. Kasten;5;TRUE;04/10/2023;Reviewed in the United States October 4, 2023;307742482
+53;Killers of the Flower Moon: The Osage Murders and the Birth of the FBI;Highly Recommend!;Avonna;5;TRUE;09/10/2023;Reviewed in the United States October 9, 2023;307742482
+54;Killers of the Flower Moon: The Osage Murders and the Birth of the FBI;Different but Important;Pat;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;307742482
+55;Killers of the Flower Moon: The Osage Murders and the Birth of the FBI;Should be requested reading in history classes;FLOYDH3MVI;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;307742482
+56;Killers of the Flower Moon: The Osage Murders and the Birth of the FBI;The amount and scale of the research;Aline Bertelsen;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;307742482
+57;Killers of the Flower Moon: The Osage Murders and the Birth of the FBI;What is most disquieting about the crimes in Killers of the Flower Moon is the awesome extent of corruption that is revealed in;Gary Carden;5;TRUE;19/05/2017;Reviewed in the United States May 19, 2017;307742482
+58;Killers of the Flower Moon: The Osage Murders and the Birth of the FBI;An even deeper and more sinister layer;Lars H;4;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;307742482
+59;Killers of the Flower Moon: The Osage Murders and the Birth of the FBI;Another Largely Forgotten Piece of American History, Brought Back to Life;Bryan Carey;5;TRUE;26/07/2023;Reviewed in the United States July 26, 2023;307742482
+60;All the Light We Cannot See: A Novel;A Beautiful And Enlightening World War II Novel;Tigerlily64;5;TRUE;14/10/2015;Reviewed in the United States October 14, 2015;1501173219
+61;All the Light We Cannot See: A Novel;It’s as if he sacrificed characters for beautiful prose.;Denise Baer;2;TRUE;20/01/2016;Reviewed in the United States January 20, 2016;1501173219
+62;All the Light We Cannot See: A Novel;Stunning;James Parnassus;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;1501173219
+63;All the Light We Cannot See: A Novel;See the Light through Superb Writing with Profound Lessons;Booksalottle;5;TRUE;17/08/2018;Reviewed in the United States August 17, 2018;1501173219
+64;All the Light We Cannot See: A Novel;Brilliant Historical Fiction;Debbie;5;TRUE;14/10/2023;Reviewed in the United States October 14, 2023;1501173219
+65;All the Light We Cannot See: A Novel;An intimate retelling of a story you think you know!;MomLovesYA;5;TRUE;23/03/2015;Reviewed in the United States March 23, 2015;1501173219
+66;All the Light We Cannot See: A Novel;Carried Away to Another World;Sharelle Moranville;5;TRUE;23/02/2017;Reviewed in the United States February 23, 2017;1501173219
+67;All the Light We Cannot See: A Novel;One of my favorite reads this year!;Lee;5;TRUE;18/08/2017;Reviewed in the United States August 18, 2017;1501173219
+68;All the Light We Cannot See: A Novel;Excellent;Mamamac;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;1501173219
+69;All the Light We Cannot See: A Novel;Brilliant;Soleil;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;1501173219
+70;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);This is not a hero story;Anne Pruitt;5;TRUE;24/05/2020;Reviewed in the United States May 24, 2020;1339016575
+71;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);Ted Bundy, Coriolanus and The Joker;MJ;5;TRUE;25/07/2020;Reviewed in the United States July 25, 2020;1339016575
+72;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);A fantastic villain origin story;Holly;5;TRUE;09/09/2023;Reviewed in the United States September 9, 2023;1339016575
+73;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);An author's initial perspective on The Ballad of Songbirds and Snakes;L.V. Fucanan;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1339016575
+74;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);Quite the read...;Mama2one;5;TRUE;12/09/2023;Reviewed in the United States September 12, 2023;1339016575
+75;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);If you love the hunger games Buy this Book!!!!;Robert;5;TRUE;16/10/2023;Reviewed in the United States October 16, 2023;1339016575
+76;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);The Ballad of Songbirds and Snakes;Bookgirl13;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1339016575
+77;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);Great Addition to the Series;Dalton O;4;TRUE;27/09/2023;Reviewed in the United States September 27, 2023;1339016575
+78;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);So Good!!!;Kindle Customer;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;1339016575
+79;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);Amazing!;Lisa Schwartz;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;1339016575
+80;Night (Night);should be required reading;Chris kuhlman;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;374500010
+81;Night (Night);hard to put down…;Mike Tynes;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;374500010
+82;Night (Night);The gift of my personal holocost;Steve Atit Marmer;5;TRUE;29/09/2023;Reviewed in the United States September 29, 2023;374500010
+83;Night (Night);mentioned that Mendes-France was suffering like Jesus, Elie Wiesel responded;Claudia Moscovici;5;TRUE;14/10/2015;Reviewed in the United States October 14, 2015;374500010
+84;Night (Night);Some Thoughts about NIGHT -- Today;Arlene Sanders;5;TRUE;03/06/2010;Reviewed in the United States June 3, 2010;374500010
+85;Night (Night);Night;jill;5;TRUE;20/10/2023;Reviewed in the United States October 20, 2023;374500010
+86;Night (Night);A must read;Floyd E. Bucher;4;TRUE;07/09/2023;Reviewed in the United States September 7, 2023;374500010
+87;Night (Night);Matter of Fact Horrors;Gary F. Taylor;5;TRUE;07/08/2014;Reviewed in the United States August 7, 2014;374500010
+88;Night (Night);Witness to Unspeakable Horrors of the Holocaust;Book Club Member;5;TRUE;14/02/2022;Reviewed in the United States February 14, 2022;374500010
+89;Night (Night);Haunting and powerfully tragic ...;DACHokie;5;TRUE;10/02/2010;Reviewed in the United States February 10, 2010;374500010
+90;Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones;Updated review after 100 days building small yet lasting habits.;Haical Sajovic Haddad;5;TRUE;18/10/2018;Reviewed in the United States October 18, 2018;735211299
+91;Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones;Transforming Through Tiny Changes: A Deep Dive into 'Atomic Habits;Amazonlover;5;TRUE;14/08/2023;Reviewed in the United States August 14, 2023;735211299
+92;Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones;"Transform Your Life with ""Atomic Habits";Laura Mujica;5;TRUE;02/10/2023;Reviewed in the United States October 2, 2023;735211299
+93;Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones;?????????? life changing read;Kayleigh;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;735211299
+94;Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones;Transformative and Insightful - A Must-Read Gem!;Adam Nelson;5;TRUE;30/08/2023;Reviewed in the United States August 30, 2023;735211299
+95;Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones;Lives up to the hype;Ty Miller;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;735211299
+96;Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones;Atomic Habits will change your life! 9 takeaways:;Mike Pritchard;5;TRUE;30/05/2019;Reviewed in the United States May 30, 2019;735211299
+97;Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones;Huge toolkit of actionable, practical, organized strategies to build positive habits;Tom Venuto, Author of Burn the Fat, Feed The Muscle;5;TRUE;16/10/2018;Reviewed in the United States October 16, 2018;735211299
+98;Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones;Distilled and clear ideas made into a simple system of behavior change. Top notch!;Andreas Aristidou;5;TRUE;26/04/2020;Reviewed in the United States April 26, 2020;735211299
+99;Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones;Clear + Practical SelfHelp Book For Those Wanting to Improve Productivity;Chauntel;5;TRUE;05/08/2023;Reviewed in the United States August 5, 2023;735211299
+100;Stocking Stuffer Mad Libs: World's Greatest Word Game;Funny;Ashbaby3000;5;TRUE;12/10/2023;Reviewed in the United States October 12, 2023;1524788139
+101;Stocking Stuffer Mad Libs: World's Greatest Word Game;Fun Family gift;melissa cuellar;5;TRUE;27/12/2022;Reviewed in the United States December 27, 2022;1524788139
+102;Stocking Stuffer Mad Libs: World's Greatest Word Game;Perfect Stocking Stuffer!;Melody;4;TRUE;30/10/2021;Reviewed in the United States October 30, 2021;1524788139
+103;Stocking Stuffer Mad Libs: World's Greatest Word Game;Favorite family activity;Pirate Mom;5;TRUE;15/04/2021;Reviewed in the United States April 15, 2021;1524788139
+104;Stocking Stuffer Mad Libs: World's Greatest Word Game;Happy sis;Ashley;5;TRUE;11/05/2022;Reviewed in the United States May 11, 2022;1524788139
+105;Stocking Stuffer Mad Libs: World's Greatest Word Game;90s flashback;Greta L. Peterson;5;TRUE;10/02/2022;Reviewed in the United States February 10, 2022;1524788139
+106;Stocking Stuffer Mad Libs: World's Greatest Word Game;So fun!;Happy mamma lady;5;TRUE;19/12/2020;Reviewed in the United States December 19, 2020;1524788139
+107;Stocking Stuffer Mad Libs: World's Greatest Word Game;Fun game;RG;5;TRUE;29/12/2021;Reviewed in the United States December 29, 2021;1524788139
+108;Stocking Stuffer Mad Libs: World's Greatest Word Game;Great;Ken;5;TRUE;04/01/2022;Reviewed in the United States January 4, 2022;1524788139
+109;Stocking Stuffer Mad Libs: World's Greatest Word Game;Fun game;AudraThompson;5;TRUE;23/12/2021;Reviewed in the United States December 23, 2021;1524788139
+110;The 48 Laws of Power;A self defense weapon book that is NEEDED!;Jax Price;5;TRUE;15/10/2023;Reviewed in the United States October 15, 2023;140280197
+111;The 48 Laws of Power;DANGER: read at your own risk;J.S. Bach;4;TRUE;15/11/2017;Reviewed in the United States November 15, 2017;140280197
+112;The 48 Laws of Power;Uncomfortable but important read!;Tsel Zagd;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;140280197
+113;The 48 Laws of Power;To sacrifice your well-being on the alter of getting ahead, this is the book for you!;Robert Buelteman;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;140280197
+114;The 48 Laws of Power;Powerful Book;Amantha Long;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;140280197
+115;The 48 Laws of Power;48 laws of power which don't make loads of sense at first so it has examples.;Arie;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;140280197
+116;The 48 Laws of Power;Do you want to feel like a baddie?;Cassie Braswell;5;TRUE;14/09/2023;Reviewed in the United States September 14, 2023;140280197
+117;The 48 Laws of Power;Solid;Aidan Longueville;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;140280197
+118;The 48 Laws of Power;I hate reading;Landon Hughes;5;TRUE;25/09/2023;Reviewed in the United States September 25, 2023;140280197
+119;The 48 Laws of Power;A MOST INTERESTING BOOK!;Amazon Dreamer;5;TRUE;22/10/2023;Reviewed in the United States October 22, 2023;140280197
+120;The Great Disappearance: 31 Ways to be Rapture Ready;Rapture ready;JF10;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;078525224X
+121;The Great Disappearance: 31 Ways to be Rapture Ready;Great Understanding;Kim;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;078525224X
+122;The Great Disappearance: 31 Ways to be Rapture Ready;Great End Times source;Kindle Customer;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;078525224X
+123;The Great Disappearance: 31 Ways to be Rapture Ready;Truth about the Word;Becky Lamos;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;078525224X
+124;The Great Disappearance: 31 Ways to be Rapture Ready;Love it!;Amazon Customer;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;078525224X
+125;The Great Disappearance: 31 Ways to be Rapture Ready;Excellent!;Gena S;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;078525224X
+126;The Great Disappearance: 31 Ways to be Rapture Ready;Living the Wordh;Sunrise / Sunset  /  Mystery;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;078525224X
+127;The Great Disappearance: 31 Ways to be Rapture Ready;Fascinating Book;RC;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;078525224X
+128;The Great Disappearance: 31 Ways to be Rapture Ready;Good read;Amazon Customer;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;078525224X
+129;The Great Disappearance: 31 Ways to be Rapture Ready;I needed this book!;Kingcatman;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;078525224X
+130;Lessons in Chemistry: A Novel;Chemical Reaction Retraction;Crafty Consumer;4;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;038554734X
+131;Lessons in Chemistry: A Novel;I LOVE THIS BOOK!! ?? ??????????;Sonia;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;038554734X
+132;Lessons in Chemistry: A Novel;Read the Book!;Mozzarella;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;038554734X
+133;Lessons in Chemistry: A Novel;A Must Read;Steve B;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;038554734X
+134;Lessons in Chemistry: A Novel;Best book I have read in 10+ years;theenglishmajor;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;038554734X
+135;Lessons in Chemistry: A Novel;This Book!!! Everyone Needs To Read It Immediately;Marie12192009;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;038554734X
+136;Lessons in Chemistry: A Novel;Not a Bit Over-Hyped;Elizabeth du Fresne;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;038554734X
+137;Lessons in Chemistry: A Novel;Chemistry lessons and so much more!;Cindy Adair;5;TRUE;18/10/2023;Reviewed in the United States October 18, 2023;038554734X
+138;Lessons in Chemistry: A Novel;as if this book needs more hyperbolic praise…;Rad Ryder;5;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;038554734X
+139;Lessons in Chemistry: A Novel;Brilliantly written!;Carolyn Clay;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;038554734X
+140;The Exchange: After The Firm (The Firm Series);A fresh, exciting sequel to The Firm;Kelley Ridings;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;385548958
+141;The Exchange: After The Firm (The Firm Series);Sign me up for the threequel!;John Smith 1950;4;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;385548958
+142;The Exchange: After The Firm (The Firm Series);Exciting, scary, interesting, but I didn't like it;Jason W;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;385548958
+143;The Exchange: After The Firm (The Firm Series);Liked the international flavor;R. Meckley;4;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;385548958
+144;The Exchange: After The Firm (The Firm Series);Storyteller Extraordinaire - John Grisham;Roselady;5;TRUE;18/10/2023;Reviewed in the United States October 18, 2023;385548958
+145;The Exchange: After The Firm (The Firm Series);A different read;Heyweb;4;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;385548958
+146;The Exchange: After The Firm (The Firm Series);Pretty Good....;Kindle Customer;4;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;385548958
+147;The Exchange: After The Firm (The Firm Series);Good but not great followup to The Firm;Kindle Customer;4;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;385548958
+148;The Exchange: After The Firm (The Firm Series);Great follow up Grisham book!;Darren O;4;TRUE;19/10/2023;Reviewed in the United States October 19, 2023;385548958
+149;The Exchange: After The Firm (The Firm Series);Grisham disappoints,but worth a read;David D;4;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;385548958
+150;Taylor Swift: A Little Golden Book Biography;Lots of fun info for young Swifties;Maureen Ann OMalley;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;593566718
+151;Taylor Swift: A Little Golden Book Biography;Adorable;Kate;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;593566718
+152;Taylor Swift: A Little Golden Book Biography;Made the cutest bday gift;T. Gal;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;593566718
+153;Taylor Swift: A Little Golden Book Biography;Perfect for any Swiftie!;Alicia E. Mitchell;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;593566718
+154;Taylor Swift: A Little Golden Book Biography;So cute!;Sarahshops;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;593566718
+155;Taylor Swift: A Little Golden Book Biography;Golden Book;Brenda Saunier;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;593566718
+156;Taylor Swift: A Little Golden Book Biography;It’s such a cute book!;SayHelloCarissa;5;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;593566718
+157;Taylor Swift: A Little Golden Book Biography;Such a cute book!;candice;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;593566718
+158;Taylor Swift: A Little Golden Book Biography;Cute little story;Elizabeth;5;TRUE;08/10/2023;Reviewed in the United States October 8, 2023;593566718
+159;Taylor Swift: A Little Golden Book Biography;Nice;N c;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;593566718
+160;Don't Let the Pigeon Drive the Sleigh!;Fun for all ages and encourages kids to read!;TwinMommy;5;TRUE;06/09/2023;Reviewed in the United States September 6, 2023;1454952776
+161;Don't Let the Pigeon Drive the Sleigh!;A fun read;littlebear;5;TRUE;22/10/2023;Reviewed in the United States October 22, 2023;1454952776
+162;Don't Let the Pigeon Drive the Sleigh!;Another great book from Mo Willems;Tracy M Heberlig;5;TRUE;19/10/2023;Reviewed in the United States October 19, 2023;1454952776
+163;Don't Let the Pigeon Drive the Sleigh!;Fans of Mo Willems will love this one!;M. Arnold;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1454952776
+164;Don't Let the Pigeon Drive the Sleigh!;Mo Willems ... amazing author;liz henning;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;1454952776
+165;Don't Let the Pigeon Drive the Sleigh!;Mo Willems Wins again;Kat Maerz;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;1454952776
+166;Don't Let the Pigeon Drive the Sleigh!;My grandson loves reading this book!;Marcie Bakker;5;TRUE;19/10/2023;Reviewed in the United States October 19, 2023;1454952776
+167;Don't Let the Pigeon Drive the Sleigh!;We LOVE the pigeon books!;Lily Queen of Everything;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;1454952776
+168;Don't Let the Pigeon Drive the Sleigh!;Pigeon books;MortsMom;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1454952776
+169;Don't Let the Pigeon Drive the Sleigh!;love this author and series;Jenny Davis;5;TRUE;13/10/2023;Reviewed in the United States October 13, 2023;1454952776
+170;Turkey Trouble;Very good;tammy jay;5;TRUE;12/10/2023;Reviewed in the United States October 12, 2023;761455299
+171;Turkey Trouble;Great book;Juliana Rodriguez;5;TRUE;12/08/2023;Reviewed in the United States August 12, 2023;761455299
+172;Turkey Trouble;Funny 4th Grade Read Aloud;Boston;5;TRUE;17/07/2023;Reviewed in the United States July 17, 2023;761455299
+173;Turkey Trouble;Great story for kids;Amazon Customer;5;TRUE;15/06/2023;Reviewed in the United States June 15, 2023;761455299
+174;Turkey Trouble;Cute, but morbid.;Rachel Striker;4;TRUE;24/12/2022;Reviewed in the United States December 24, 2022;761455299
+175;Turkey Trouble;Book in GREAT condition;JAC in Colorado;5;TRUE;21/03/2023;Reviewed in the United States March 21, 2023;761455299
+176;Turkey Trouble;kids love it;Ria;5;TRUE;22/11/2022;Reviewed in the United States November 22, 2022;761455299
+177;Turkey Trouble;Great book!;Brianna Wilcox;5;TRUE;17/12/2022;Reviewed in the United States December 17, 2022;761455299
+178;Turkey Trouble;Lovely story for my childrens school project;Tesha;5;TRUE;13/11/2022;Reviewed in the United States November 13, 2022;761455299
+179;Turkey Trouble;Funny lol;CindyLou;5;TRUE;08/11/2022;Reviewed in the United States November 8, 2022;761455299
+180;The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma;Buy this book!;Tom Cloyd, MS MA;5;TRUE;28/09/2014;Reviewed in the United States September 28, 2014;143127748
+181;The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma;Please buy this book and start loving your life;monsterpixel;5;TRUE;24/09/2016;Reviewed in the United States September 24, 2016;143127748
+182;The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma;Great book;JSimpson;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;143127748
+183;The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma;I'm So Glad I Read This Book!;Monica;4;TRUE;13/07/2023;Reviewed in the United States July 13, 2023;143127748
+184;The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma;Great Book on PTSD;Wolf;5;TRUE;14/10/2023;Reviewed in the United States October 14, 2023;143127748
+185;The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma;Delivered not damaged;Janet;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;143127748
+186;The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma;So Good;Alycea Ruhlen;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;143127748
+187;The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma;DO NOT READ THE EPILOGUE TO THIS BOOK. IT COMPLETELY RUINS THE BOOK!!!!;Amazon Customer;4;TRUE;16/03/2021;Reviewed in the United States March 16, 2021;143127748
+188;The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma;Excellent Read;Tina Wichman;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;143127748
+189;The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma;I made so many connections;Kevin O'Connor;4;TRUE;16/10/2023;Reviewed in the United States October 16, 2023;143127748
+190;A Court of Thorns and Roses (A Court of Thorns and Roses, 1);Bow Down to the Queen of YA Fantasy;Teisha @ Girl Writes Reviews;5;TRUE;05/10/2015;Reviewed in the United States October 5, 2015;1635575567
+191;A Court of Thorns and Roses (A Court of Thorns and Roses, 1);Not a perfect book, but a good book 1.;Kindle Customer;5;TRUE;02/10/2017;Reviewed in the United States October 2, 2017;1635575567
+192;A Court of Thorns and Roses (A Court of Thorns and Roses, 1);A Captivating Journey into the Realm of Thorns and Roses;Yami's Bookshelf;5;TRUE;09/10/2023;Reviewed in the United States October 9, 2023;1635575567
+193;A Court of Thorns and Roses (A Court of Thorns and Roses, 1);Beautiful Cover;Ohlookabunny;4;TRUE;19/07/2023;Reviewed in the United States July 19, 2023;1635575567
+194;A Court of Thorns and Roses (A Court of Thorns and Roses, 1);Glad I finally started ACOTAR;BooksAreMyTherapy;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;1635575567
+195;A Court of Thorns and Roses (A Court of Thorns and Roses, 1);Lives up to they hype!;NickiZ;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;1635575567
+196;A Court of Thorns and Roses (A Court of Thorns and Roses, 1);ACOTAR is nothing more than erotica;Anne Pruitt;2;TRUE;13/11/2018;Reviewed in the United States November 13, 2018;1635575567
+197;A Court of Thorns and Roses (A Court of Thorns and Roses, 1);?Beauty and the Beast meets Faerie ?;Robin Snyder;3;TRUE;08/05/2015;Reviewed in the United States May 8, 2015;1635575567
+198;A Court of Thorns and Roses (A Court of Thorns and Roses, 1);Detailed to an excessive degree, but plot is good.;Adrea Crosby;4;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;1635575567
+199;A Court of Thorns and Roses (A Court of Thorns and Roses, 1);Doesn’t deserve the hate;Shay;5;TRUE;26/02/2021;Reviewed in the United States February 26, 2021;1635575567
+200;A Little Life;A tragic and memorable tale;borderzkai;4;TRUE;03/09/2016;Reviewed in the United States September 3, 2016;804172706
+201;A Little Life;“Lost to the World”;Eclectic Reader;5;TRUE;25/03/2020;Reviewed in the United States March 25, 2020;804172706
+202;A Little Life;A little long;switterbug/Betsey Van Horn;4;TRUE;09/06/2015;Reviewed in the United States June 9, 2015;804172706
+203;A Little Life;I would say that I do recommend this book, but absolutely NOT to everyone.;Kayleigh Brown;4;TRUE;10/09/2023;Reviewed in the United States September 10, 2023;804172706
+204;A Little Life;4.75-Stars: Excruciating and Diabolical, but Masterfully Written;Booksalottle;5;TRUE;17/05/2019;Reviewed in the United States May 17, 2019;804172706
+205;A Little Life;Heartbreaking but beautiful;Amazon Customer;5;TRUE;02/10/2023;Reviewed in the United States October 2, 2023;804172706
+206;A Little Life;Beautiful and devastating.;Christopher;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;804172706
+207;A Little Life;STUNNING;Erin D;5;TRUE;15/10/2023;Reviewed in the United States October 15, 2023;804172706
+208;A Little Life;This book should come with trigger warnings.;melissa waters;5;TRUE;13/10/2023;Reviewed in the United States October 13, 2023;804172706
+209;A Little Life;Hard read, heart breaking. Excellent book.;Sadie Lankford;5;TRUE;04/10/2023;Reviewed in the United States October 4, 2023;804172706
+210;World of Eric Carle, Around the Farm 30-Button Animal Sound Book - Great for First Words - PI Kids;Kids Love Eric Carle!;Maria O.;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1450805752
+211;World of Eric Carle, Around the Farm 30-Button Animal Sound Book - Great for First Words - PI Kids;What a fun book - Lovely sounds and Pictures;Donna;5;TRUE;15/09/2023;Reviewed in the United States September 15, 2023;1450805752
+212;World of Eric Carle, Around the Farm 30-Button Animal Sound Book - Great for First Words - PI Kids;One of my autistic son's favorite books;Hedgecom22;5;TRUE;24/09/2023;Reviewed in the United States September 24, 2023;1450805752
+213;World of Eric Carle, Around the Farm 30-Button Animal Sound Book - Great for First Words - PI Kids;Great product;Amazon Customer;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;1450805752
+214;World of Eric Carle, Around the Farm 30-Button Animal Sound Book - Great for First Words - PI Kids;Fun book;Amazon Customer;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;1450805752
+215;World of Eric Carle, Around the Farm 30-Button Animal Sound Book - Great for First Words - PI Kids;Toddler loves it! Not sturdy though;A. K. P.;4;TRUE;04/10/2023;Reviewed in the United States October 4, 2023;1450805752
+216;World of Eric Carle, Around the Farm 30-Button Animal Sound Book - Great for First Words - PI Kids;Book as expected;Kalesha;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1450805752
+217;World of Eric Carle, Around the Farm 30-Button Animal Sound Book - Great for First Words - PI Kids;Animal Sound Book;john shalack;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;1450805752
+218;World of Eric Carle, Around the Farm 30-Button Animal Sound Book - Great for First Words - PI Kids;Book;vicki casone-bertok;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1450805752
+219;World of Eric Carle, Around the Farm 30-Button Animal Sound Book - Great for First Words - PI Kids;Great for Toddlers;Rogerio;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;1450805752
+220;Goodnight, Goodnight Construction Site (Board Book for Toddlers, Children's Board Book);Great book. Damaged during shipping;A.B.318;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;1452111731
+221;Goodnight, Goodnight Construction Site (Board Book for Toddlers, Children's Board Book);Cute story, very durable material!;Amazon Customer;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;1452111731
+222;Goodnight, Goodnight Construction Site (Board Book for Toddlers, Children's Board Book);Love it;Maggie;5;TRUE;13/10/2023;Reviewed in the United States October 13, 2023;1452111731
+223;Goodnight, Goodnight Construction Site (Board Book for Toddlers, Children's Board Book);Great Book for 3year old;Denise M. Broussard;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;1452111731
+224;Goodnight, Goodnight Construction Site (Board Book for Toddlers, Children's Board Book);Very cute book;RC;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;1452111731
+225;Goodnight, Goodnight Construction Site (Board Book for Toddlers, Children's Board Book);Boys;katrina;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;1452111731
+226;Goodnight, Goodnight Construction Site (Board Book for Toddlers, Children's Board Book);So adorable;Andrea Kay;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;1452111731
+227;Goodnight, Goodnight Construction Site (Board Book for Toddlers, Children's Board Book);My sons favorite;Caitlin;5;TRUE;17/10/2023;Reviewed in the United States October 17, 2023;1452111731
+228;Goodnight, Goodnight Construction Site (Board Book for Toddlers, Children's Board Book);Cute;KENDYLLYNN;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;1452111731
+229;Goodnight, Goodnight Construction Site (Board Book for Toddlers, Children's Board Book);Book;Margaret Zahalka;5;TRUE;16/10/2023;Reviewed in the United States October 16, 2023;1452111731
+230;The Leaf Thief: (The Perfect Fall Book for Children and Toddlers);Seasons / fall book for young kids;StarryB;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1728235200
+231;The Leaf Thief: (The Perfect Fall Book for Children and Toddlers);Humorous read aloud;Annamarie;4;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;1728235200
+232;The Leaf Thief: (The Perfect Fall Book for Children and Toddlers);All good things!;Michelle;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;1728235200
+233;The Leaf Thief: (The Perfect Fall Book for Children and Toddlers);Love it;Loue;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1728235200
+234;The Leaf Thief: (The Perfect Fall Book for Children and Toddlers);Funny for All Ages;LKR;5;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;1728235200
+235;The Leaf Thief: (The Perfect Fall Book for Children and Toddlers);Definitely for 2-5 yo;LS;5;TRUE;11/10/2023;Reviewed in the United States October 11, 2023;1728235200
+236;The Leaf Thief: (The Perfect Fall Book for Children and Toddlers);What a Cute Story!!;FreedomLifeSolutions2016;5;TRUE;11/10/2023;Reviewed in the United States October 11, 2023;1728235200
+237;The Leaf Thief: (The Perfect Fall Book for Children and Toddlers);Perfect children's book for fall;booklover;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;1728235200
+238;The Leaf Thief: (The Perfect Fall Book for Children and Toddlers);Love it;Josephine Jones;5;TRUE;19/10/2023;Reviewed in the United States October 19, 2023;1728235200
+239;The Leaf Thief: (The Perfect Fall Book for Children and Toddlers);One of our favorite children’s fall themed books;Brittany Durichek;5;TRUE;30/09/2023;Reviewed in the United States September 30, 2023;1728235200
+240;Brown Bear, Brown Bear, What Do You See?;My son love it! Crazy about it!;Grace;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;805047905
+241;Brown Bear, Brown Bear, What Do You See?;Classic;PJM;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;805047905
+242;Brown Bear, Brown Bear, What Do You See?;A perfect gift;peg;5;TRUE;16/10/2023;Reviewed in the United States October 16, 2023;805047905
+243;Brown Bear, Brown Bear, What Do You See?;Love;MrsQ;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;805047905
+244;Brown Bear, Brown Bear, What Do You See?;My daughter loves this book!;Julia Jen;5;TRUE;13/10/2023;Reviewed in the United States October 13, 2023;805047905
+245;Brown Bear, Brown Bear, What Do You See?;One of my favorite childhood books;Alicia harris;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;805047905
+246;Brown Bear, Brown Bear, What Do You See?;Favorite childhood book;Chasity;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;805047905
+247;Brown Bear, Brown Bear, What Do You See?;Children’s Book;Myra;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;805047905
+248;Brown Bear, Brown Bear, What Do You See?;My granddaughter's favorite!;Steve;5;TRUE;16/09/2023;Reviewed in the United States September 16, 2023;805047905
+249;Brown Bear, Brown Bear, What Do You See?;Baby’s favorite book;Katie Wallace;5;TRUE;25/09/2023;Reviewed in the United States September 25, 2023;805047905
+250;Balloons over Broadway: The True Story of the Puppeteer of Macy's Parade (Bank Street College of Education Flora Stieglitz Straus Award (Awards));Such a good book!;pamela;5;TRUE;06/10/2023;Reviewed in the United States October 6, 2023;547199457
+251;Balloons over Broadway: The True Story of the Puppeteer of Macy's Parade (Bank Street College of Education Flora Stieglitz Straus Award (Awards));Beautiful book!;L _CarterMama;5;TRUE;05/07/2023;Reviewed in the United States July 5, 2023;547199457
+252;Balloons over Broadway: The True Story of the Puppeteer of Macy's Parade (Bank Street College of Education Flora Stieglitz Straus Award (Awards));Book;Abby Dye;5;TRUE;02/08/2023;Reviewed in the United States August 2, 2023;547199457
+253;Balloons over Broadway: The True Story of the Puppeteer of Macy's Parade (Bank Street College of Education Flora Stieglitz Straus Award (Awards));Informative and entertaining;Kelsey Hilton;5;TRUE;27/06/2023;Reviewed in the United States June 27, 2023;547199457
+254;Balloons over Broadway: The True Story of the Puppeteer of Macy's Parade (Bank Street College of Education Flora Stieglitz Straus Award (Awards));MARVELOUS BACKSTORY!;ML Daniels;5;TRUE;09/12/2022;Reviewed in the United States December 9, 2022;547199457
+255;Balloons over Broadway: The True Story of the Puppeteer of Macy's Parade (Bank Street College of Education Flora Stieglitz Straus Award (Awards));Educational;Kindle Customer;5;TRUE;23/01/2023;Reviewed in the United States January 23, 2023;547199457
+256;Balloons over Broadway: The True Story of the Puppeteer of Macy's Parade (Bank Street College of Education Flora Stieglitz Straus Award (Awards));Great story;Shannon;5;TRUE;27/11/2022;Reviewed in the United States November 27, 2022;547199457
+257;Balloons over Broadway: The True Story of the Puppeteer of Macy's Parade (Bank Street College of Education Flora Stieglitz Straus Award (Awards));Great story;K;5;TRUE;23/01/2023;Reviewed in the United States January 23, 2023;547199457
+258;Balloons over Broadway: The True Story of the Puppeteer of Macy's Parade (Bank Street College of Education Flora Stieglitz Straus Award (Awards));Love It!;Amazon Customer;5;TRUE;26/11/2022;Reviewed in the United States November 26, 2022;547199457
+259;Balloons over Broadway: The True Story of the Puppeteer of Macy's Parade (Bank Street College of Education Flora Stieglitz Straus Award (Awards));Must have for Thanksgiving week!;Amy;5;TRUE;28/11/2022;Reviewed in the United States November 28, 2022;547199457
+260;The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book);A Trip Into Mysticism;J. M. Alexander;4;TRUE;04/07/2015;Reviewed in the United States July 4, 2015;1878424319
+261;The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book);"This is not ""new age"" self help book! This book is based on modern linguistic theory and philosophical precepts.";I'm Me Me;5;TRUE;25/04/2017;Reviewed in the United States April 25, 2017;1878424319
+262;The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book);Simple but deep philosophy with the grandest of aspirations;Emily;4;TRUE;17/01/2021;Reviewed in the United States January 17, 2021;1878424319
+263;The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book);I found this enlightening;Les;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1878424319
+264;The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book);A Life-Changing Guide to Living Authentically;K. Benjamin;5;TRUE;12/07/2023;Reviewed in the United States July 12, 2023;1878424319
+265;The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book);Several valuable insights from this book can be integrated into your daily routine;Daina Escamilla;5;TRUE;18/09/2023;Reviewed in the United States September 18, 2023;1878424319
+266;The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book);Changed my life!;MIC D;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1878424319
+267;The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book);Quick read;CMBRussell;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1878424319
+268;The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book);Yes, Yes and Yes;MB;5;TRUE;20/10/2023;Reviewed in the United States October 20, 2023;1878424319
+269;The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book);I love this author / I love this book;Bunny;5;TRUE;14/10/2023;Reviewed in the United States October 14, 2023;1878424319
+270;The Housemaid;Freida you have done it again. MUST READ;Bella s.;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;1538742578
+271;The Housemaid;Wow;Veronica;4;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;1538742578
+272;The Housemaid;I saw the twist coming;S.Williams;4;TRUE;17/10/2023;Reviewed in the United States October 17, 2023;1538742578
+273;The Housemaid;A true page-turner;LeeTalLavi;5;TRUE;17/10/2023;Reviewed in the United States October 17, 2023;1538742578
+274;The Housemaid;I was hooked!;Danielle L;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1538742578
+275;The Housemaid;Left Me Spinning!;JH;5;TRUE;18/10/2023;Reviewed in the United States October 18, 2023;1538742578
+276;The Housemaid;Kept me intrigued!;Jnapie2;4;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;1538742578
+277;The Housemaid;This is delicious;Country Roads;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;1538742578
+278;The Housemaid;On the edge of my seat good!;MamaBr;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1538742578
+279;The Housemaid;Riveting read!!;CRoberts;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;1538742578
+280;How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen;An Important Book on an Important Topic Taking a Much Needed Skill Building Focus;J.M. Ryan;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;059323006X
+281;How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen;Insightful;Sue Hopper;4;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;059323006X
+282;How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen;Revolutionary!;Amazon Customer;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;059323006X
+283;How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen;Thank you, David Brooks!;Linda;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;059323006X
+284;How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen;Amazing and Important Book on Getting to Know Other People;Steve Woit;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;059323006X
+285;How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen;Growing;DavidJ;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;059323006X
+286;How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen;Must read!!;Mark;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;059323006X
+287;How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen;Phenomenal Feel Good Read;Jody Gorran;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;059323006X
+288;How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen;Mr. Brooks puts it all together so we’ll.;Joe Collector;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;059323006X
+289;How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen;David's book is great. your shipping materials did not hold up in the rain;patricia lowery;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;059323006X
+290;The Very Hungry Caterpillar;A Timeless Classic That Nourishes the Mind!;Pretty;5;TRUE;04/09/2023;Reviewed in the United States September 4, 2023;399226907
+291;The Very Hungry Caterpillar;A Classic;JerseyGirl 164334;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;399226907
+292;The Very Hungry Caterpillar;Love this board book!;K. A. D.;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;399226907
+293;The Very Hungry Caterpillar;Books For Babies;Abigail;5;TRUE;16/10/2023;Reviewed in the United States October 16, 2023;399226907
+294;The Very Hungry Caterpillar;Hungry;Cheryl;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;399226907
+295;The Very Hungry Caterpillar;Cute;Gina;5;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;399226907
+296;The Very Hungry Caterpillar;Cute classic;JM;4;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;399226907
+297;The Very Hungry Caterpillar;Hungry caterpillar;Loved this book as a child and bought the book for my kids!!! Forever a classic !!;5;TRUE;18/10/2023;Reviewed in the United States October 18, 2023;399226907
+298;The Very Hungry Caterpillar;One of The best gifts for new baby.;Erik B. Anderson;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;399226907
+299;The Very Hungry Caterpillar;Great book;Sheri Mulcock;5;TRUE;18/10/2023;Reviewed in the United States October 18, 2023;399226907
+300;How to Catch a Reindeer;Cute story;Tara;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1728276136
+301;How to Catch a Reindeer;Cute book;MistyLou;5;TRUE;16/10/2023;Reviewed in the United States October 16, 2023;1728276136
+302;How to Catch a Reindeer;Cool;Barbara Clark;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;1728276136
+303;How to Catch a Reindeer;Good quality for the price.;Cheryl Monk;5;TRUE;15/09/2023;Reviewed in the United States September 15, 2023;1728276136
+304;How to Catch a Reindeer;Seasonal picks;Jen;5;TRUE;23/09/2023;Reviewed in the United States September 23, 2023;1728276136
+305;How to Catch a Reindeer;Fun seasonal book for all children, including adults!;Marilynda Boyer;4;TRUE;31/12/2022;Reviewed in the United States December 31, 2022;1728276136
+306;How to Catch a Reindeer;Love;JAMIE;5;TRUE;06/03/2023;Reviewed in the United States March 6, 2023;1728276136
+307;How to Catch a Reindeer;"How to Catch..."" books";Amazon Customer;5;TRUE;05/02/2023;Reviewed in the United States February 5, 2023;1728276136
+308;How to Catch a Reindeer;Great concept, weird delivery;Taylor Chapman;3;TRUE;14/02/2023;Reviewed in the United States February 14, 2023;1728276136
+309;How to Catch a Reindeer;Great fun;MomofAutisticLittleHandsome;5;TRUE;27/02/2023;Reviewed in the United States February 27, 2023;1728276136
+310;Pookie's Thanksgiving (Little Pookie);Cute;Nonni Rose;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;166592263X
+311;Pookie's Thanksgiving (Little Pookie);Cute Story;Ashley;5;TRUE;08/09/2023;Reviewed in the United States September 8, 2023;166592263X
+312;Pookie's Thanksgiving (Little Pookie);Good story;Deborah;5;TRUE;21/04/2023;Reviewed in the United States April 21, 2023;166592263X
+313;Pookie's Thanksgiving (Little Pookie);Sweet and simple.;My Favorite Things;5;TRUE;09/09/2022;Reviewed in the United States September 9, 2022;166592263X
+314;Pookie's Thanksgiving (Little Pookie);Cute pookie book but maybe not as cute as the others;Caitlin;4;TRUE;11/11/2022;Reviewed in the United States November 11, 2022;166592263X
+315;Pookie's Thanksgiving (Little Pookie);Great Book!;Vanessa Sawade;5;TRUE;27/01/2023;Reviewed in the United States January 27, 2023;166592263X
+316;Pookie's Thanksgiving (Little Pookie);Sandra Boynton never disappoints!;Courtney;5;TRUE;07/12/2022;Reviewed in the United States December 7, 2022;166592263X
+317;Pookie's Thanksgiving (Little Pookie);Boynton never misses;Serena Raheja;5;TRUE;05/11/2022;Reviewed in the United States November 5, 2022;166592263X
+318;Pookie's Thanksgiving (Little Pookie);What is not to love?;aquagirl;5;TRUE;13/01/2023;Reviewed in the United States January 13, 2023;166592263X
+319;Pookie's Thanksgiving (Little Pookie);Cute book;a_bennett;5;TRUE;30/11/2022;Reviewed in the United States November 30, 2022;166592263X
+320;The Psychology of Money: Timeless lessons on wealth, greed, and happiness;A Significant and Badly Needed Contribution to the Qualitative Part of our Financial Life.;Stephen S;4;TRUE;11/11/2020;Reviewed in the United States November 11, 2020;857197681
+321;The Psychology of Money: Timeless lessons on wealth, greed, and happiness;Timeless nuggets of wisdom;Larry Frank;5;TRUE;24/08/2021;Reviewed in the United States August 24, 2021;857197681
+322;The Psychology of Money: Timeless lessons on wealth, greed, and happiness;Making cents of thing that don’t make sense;Shopgirl17;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;857197681
+323;The Psychology of Money: Timeless lessons on wealth, greed, and happiness;Best book on personal finance and investing I ever read;T. Torrey;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;857197681
+324;The Psychology of Money: Timeless lessons on wealth, greed, and happiness;Financial freedom;Eduardo Fernandes;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;857197681
+325;The Psychology of Money: Timeless lessons on wealth, greed, and happiness;Must Read;Ricky W.;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;857197681
+326;The Psychology of Money: Timeless lessons on wealth, greed, and happiness;Informative;PharoRaHeruKuhuti;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;857197681
+327;The Psychology of Money: Timeless lessons on wealth, greed, and happiness;A Must Buy!!!!;Amazon Customer;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;857197681
+328;The Psychology of Money: Timeless lessons on wealth, greed, and happiness;Spend more time in pursuit of small, personally appealing adventures and interests;Fascinated  explorer;4;TRUE;12/05/2021;Reviewed in the United States May 12, 2021;857197681
+329;The Psychology of Money: Timeless lessons on wealth, greed, and happiness;loved it;collin;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;857197681
+330;The Seven Husbands of Evelyn Hugo: A Novel;5/5 A True Masterpiece;melanie (meltotheany / jtotheimin);5;TRUE;23/03/2018;Reviewed in the United States March 23, 2018;1501161938
+331;The Seven Husbands of Evelyn Hugo: A Novel;THE SEVEN HUSBANDS OF EVELYN HUGO: Mason's Review;Madison;4;TRUE;27/04/2023;Reviewed in the United States April 27, 2023;1501161938
+332;The Seven Husbands of Evelyn Hugo: A Novel;Loved it;Lane;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1501161938
+333;The Seven Husbands of Evelyn Hugo: A Novel;Not what I was expecting;The Hungry Housewives;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1501161938
+334;The Seven Husbands of Evelyn Hugo: A Novel;Finished in all in one day;Renae Wallace;5;TRUE;08/10/2023;Reviewed in the United States October 8, 2023;1501161938
+335;The Seven Husbands of Evelyn Hugo: A Novel;Hollywood hasn't changed much;Chelscey;5;TRUE;25/04/2022;Reviewed in the United States April 25, 2022;1501161938
+336;The Seven Husbands of Evelyn Hugo: A Novel;10/10, I LOVE THIS BOOK;Patricia;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;1501161938
+337;The Seven Husbands of Evelyn Hugo: A Novel;my new favorite;robin bansemer;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;1501161938
+338;The Seven Husbands of Evelyn Hugo: A Novel;A Lovely but Complex Tale of a (Fictional) Movie Star with Seven Husbands;Elizabeth du Fresne;4;TRUE;25/09/2023;Reviewed in the United States September 25, 2023;1501161938
+339;The Seven Husbands of Evelyn Hugo: A Novel;I can’t express how much I Loved This.;Stephanie Monea;5;TRUE;02/10/2023;Reviewed in the United States October 2, 2023;1501161938
+340;I Love You to the Moon and Back;Amazing;Colorado Princess;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1589255518
+341;I Love You to the Moon and Back;Heavenly book for baby!;Babette's momma;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;1589255518
+342;I Love You to the Moon and Back;gift;Ginnie Bazo;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;1589255518
+343;I Love You to the Moon and Back;Beautifully illustrated;Jeremy;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;1589255518
+344;I Love You to the Moon and Back;Special Book;Jean Clark;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;1589255518
+345;I Love You to the Moon and Back;So cute!;Ember Valdez;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;1589255518
+346;I Love You to the Moon and Back;Wonderful story;N c;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1589255518
+347;I Love You to the Moon and Back;My great-grandson is gonna love it!;G Wilson;5;TRUE;12/10/2023;Reviewed in the United States October 12, 2023;1589255518
+348;I Love You to the Moon and Back;Cute;cory;5;TRUE;22/10/2023;Reviewed in the United States October 22, 2023;1589255518
+349;I Love You to the Moon and Back;Classic bedtime infant book.;Erik B. Anderson;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;1589255518
+350;Outlive: The Science and Art of Longevity;Wonderful mix of facts, sound medical advice, anecdotes and opinions for living a long healthy life;G. C. Carter;5;TRUE;02/08/2023;Reviewed in the United States August 2, 2023;593236599
+351;Outlive: The Science and Art of Longevity;The Owners Manual We Should Have Received At Birth;DES;4;TRUE;13/06/2023;Reviewed in the United States June 13, 2023;593236599
+352;Outlive: The Science and Art of Longevity;A Clear, Walkable Path to Longevity;Lucas;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;593236599
+353;Outlive: The Science and Art of Longevity;Risky if you take much of it literally.;T. French;4;TRUE;13/08/2023;Reviewed in the United States August 13, 2023;593236599
+354;Outlive: The Science and Art of Longevity;Hoping the rest of the info is more accurate than ch. 13;BIGFOOT of the AMZN;4;TRUE;11/10/2023;Reviewed in the United States October 11, 2023;593236599
+355;Outlive: The Science and Art of Longevity;Best book on health!;Beguiled By Books;5;TRUE;11/07/2023;Reviewed in the United States July 11, 2023;593236599
+356;Outlive: The Science and Art of Longevity;Medicine 3.0 is coming and Peter Attia leads the charge;Thomas Kelso;5;TRUE;22/04/2023;Reviewed in the United States April 22, 2023;593236599
+357;Outlive: The Science and Art of Longevity;One of the most interesting books I've ever read;Jody;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;593236599
+358;Outlive: The Science and Art of Longevity;Attia does nothing half-way: amazing!;Latif Hamed;5;TRUE;10/04/2023;Reviewed in the United States April 10, 2023;593236599
+359;Outlive: The Science and Art of Longevity;As a nurse I say this is a must read for EVERYONE;Liz;5;TRUE;20/10/2023;Reviewed in the United States October 20, 2023;593236599
+360;Hundred Years' War on Palestine;An Oasis in the Desert of Misinformation and Propaganda;Mrs. M;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;1250787653
+361;Hundred Years' War on Palestine;The History is Important to Understanding Today;Ralph Lehman;5;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;1250787653
+362;Hundred Years' War on Palestine;"NOT a "" 300 page rant"" Careful, accessible, scholarship to provide context.";Adam the book reader;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;1250787653
+363;Hundred Years' War on Palestine;Must read in these times;Tina;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;1250787653
+364;Hundred Years' War on Palestine;Must read;Akshay;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;1250787653
+365;Hundred Years' War on Palestine;Important history;Amazon Customer;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;1250787653
+366;Hundred Years' War on Palestine;The Hundred Years’ War on Palestine;melkassem;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;1250787653
+367;Hundred Years' War on Palestine;A good, comprehensive summary;A H Kobayashi;3;TRUE;27/05/2021;Reviewed in the United States May 27, 2021;1250787653
+368;Hundred Years' War on Palestine;Was afraid of this…;Michelle;2;TRUE;10/10/2023;Reviewed in the United States October 10, 2023;1250787653
+369;Hundred Years' War on Palestine;A MUST READ....;Neill Brownstein;5;TRUE;02/08/2021;Reviewed in the United States August 2, 2021;1250787653
+370;Little Blue Truck's Christmas: A Christmas Holiday Book for Kids;We love this!;cory casini;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;544320417
+371;Little Blue Truck's Christmas: A Christmas Holiday Book for Kids;Little Blue Truck;Emma Hamill;5;TRUE;13/10/2023;Reviewed in the United States October 13, 2023;544320417
+372;Little Blue Truck's Christmas: A Christmas Holiday Book for Kids;Daughter loved it;Sherise-Charity Wingate;5;TRUE;13/09/2023;Reviewed in the United States September 13, 2023;544320417
+373;Little Blue Truck's Christmas: A Christmas Holiday Book for Kids;Love it!;Michelle;5;TRUE;26/09/2023;Reviewed in the United States September 26, 2023;544320417
+374;Little Blue Truck's Christmas: A Christmas Holiday Book for Kids;Little blue truck;sharon;4;TRUE;08/10/2023;Reviewed in the United States October 8, 2023;544320417
+375;Little Blue Truck's Christmas: A Christmas Holiday Book for Kids;:);Stephanie Osborn;5;TRUE;13/09/2023;Reviewed in the United States September 13, 2023;544320417
+376;Little Blue Truck's Christmas: A Christmas Holiday Book for Kids;Gift;Sandy Robinson;5;TRUE;18/09/2023;Reviewed in the United States September 18, 2023;544320417
+377;Little Blue Truck's Christmas: A Christmas Holiday Book for Kids;Love the Book Series;Alyssa Charron;5;TRUE;01/09/2023;Reviewed in the United States September 1, 2023;544320417
+378;Little Blue Truck's Christmas: A Christmas Holiday Book for Kids;Great book;Mary;5;TRUE;12/08/2023;Reviewed in the United States August 12, 2023;544320417
+379;Little Blue Truck's Christmas: A Christmas Holiday Book for Kids;Updated: My Son Loves This Book, But it Seemed Defetive;Summer Pomander;4;TRUE;30/01/2023;Reviewed in the United States January 30, 2023;544320417
+380;Goodnight Moon;Best book for my baby;Sunny Y.;5;TRUE;22/10/2023;Reviewed in the United States October 22, 2023;694003611
+381;Goodnight Moon;Adorable Bedtime Story;Robin M.;5;TRUE;05/10/2023;Reviewed in the United States October 5, 2023;694003611
+382;Goodnight Moon;Love this book;Suzy;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;694003611
+383;Goodnight Moon;Great book!;Amazon Customer;5;TRUE;20/10/2023;Reviewed in the United States October 20, 2023;694003611
+384;Goodnight Moon;Good Night Moon Board Book;Marcia Wheeler;5;TRUE;08/10/2023;Reviewed in the United States October 8, 2023;694003611
+385;Goodnight Moon;Classic;Amazon Customer;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;694003611
+386;Goodnight Moon;Love this book;carol bild;5;TRUE;19/10/2023;Reviewed in the United States October 19, 2023;694003611
+387;Goodnight Moon;Favorite book!;Kindle Customer;5;TRUE;07/10/2023;Reviewed in the United States October 7, 2023;694003611
+388;Goodnight Moon;What could be better than Goodnight Moon?;Maxine S;5;TRUE;18/10/2023;Reviewed in the United States October 18, 2023;694003611
+389;Goodnight Moon;Great book;amy larrow;5;TRUE;07/10/2023;Reviewed in the United States October 7, 2023;694003611
+390;I Am Thankful: A Thanksgiving Book for Kids;"Sweet book; recommend for older kids";Karen B.;4;TRUE;04/11/2022;Reviewed in the United States November 4, 2022;1646115538
+391;I Am Thankful: A Thanksgiving Book for Kids;Fantastic;Sarah C;5;TRUE;05/10/2022;Reviewed in the United States October 5, 2022;1646115538
+392;I Am Thankful: A Thanksgiving Book for Kids;??;Ms. Hancock;5;TRUE;21/11/2022;Reviewed in the United States November 21, 2022;1646115538
+393;I Am Thankful: A Thanksgiving Book for Kids;Great for lessons in gratitude;Leticia Lolita;5;TRUE;29/11/2022;Reviewed in the United States November 29, 2022;1646115538
+394;I Am Thankful: A Thanksgiving Book for Kids;Beautiful book;Reens;5;TRUE;07/11/2021;Reviewed in the United States November 7, 2021;1646115538
+395;I Am Thankful: A Thanksgiving Book for Kids;Good book;Amazon Customer;5;TRUE;05/01/2023;Reviewed in the United States January 5, 2023;1646115538
+396;I Am Thankful: A Thanksgiving Book for Kids;Cute book;Shannon;5;TRUE;26/12/2022;Reviewed in the United States December 26, 2022;1646115538
+397;I Am Thankful: A Thanksgiving Book for Kids;Not recommended for younger kids.;Cheyrle;3;TRUE;16/11/2022;Reviewed in the United States November 16, 2022;1646115538
+398;I Am Thankful: A Thanksgiving Book for Kids;Sweet book about having a grateful heart!;Sir Walter Raleigh;5;TRUE;20/11/2020;Reviewed in the United States November 20, 2020;1646115538
+399;I Am Thankful: A Thanksgiving Book for Kids;This is the best kids book I've ever read;Heather R;5;TRUE;10/11/2020;Reviewed in the United States November 10, 2020;1646115538
+400;A Court of Thorns and Roses Paperback Box Set (5 books);Amazing books - horrible shipping :-(;Hazel;5;TRUE;05/10/2023;Reviewed in the United States October 5, 2023;1639730192
+401;A Court of Thorns and Roses Paperback Box Set (5 books);Nesta, Nesta, Nesta…;Jullie MacKenna;5;TRUE;19/10/2023;Reviewed in the United States October 19, 2023;1639730192
+402;A Court of Thorns and Roses Paperback Box Set (5 books);Absolute must-read;M.B.;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;1639730192
+403;A Court of Thorns and Roses Paperback Box Set (5 books);Mixed reviews;Customer23456;4;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;1639730192
+404;A Court of Thorns and Roses Paperback Box Set (5 books);Great Read;Michila L.;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;1639730192
+405;A Court of Thorns and Roses Paperback Box Set (5 books);One of my favorite series ever;Andrei;5;TRUE;07/10/2023;Reviewed in the United States October 7, 2023;1639730192
+406;A Court of Thorns and Roses Paperback Box Set (5 books);Worth every penny;April Reese;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1639730192
+407;A Court of Thorns and Roses Paperback Box Set (5 books);Beautiful Set;Taylor McCormick;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1639730192
+408;A Court of Thorns and Roses Paperback Box Set (5 books);This book series changed my whole personality!;Star Samson;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;1639730192
+409;A Court of Thorns and Roses Paperback Box Set (5 books);Couldn't put them down;Jessica;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;1639730192
+410;Where's Bluey?: A Search-and-Find Book;Great book!;Alfonso Avila;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;593385691
+411;Where's Bluey?: A Search-and-Find Book;Granddaughter loved it!;George H.;5;TRUE;19/10/2023;Reviewed in the United States October 19, 2023;593385691
+412;Where's Bluey?: A Search-and-Find Book;Bluey fans will love!;Amazon Customer;5;TRUE;14/10/2023;Reviewed in the United States October 14, 2023;593385691
+413;Where's Bluey?: A Search-and-Find Book;14 scenes of Bluey and Friends;Marie Sembar;5;TRUE;29/08/2023;Reviewed in the United States August 29, 2023;593385691
+414;Where's Bluey?: A Search-and-Find Book;Fun;Aimee;5;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;593385691
+415;Where's Bluey?: A Search-and-Find Book;Actually pretty difficult ??;Squirl;4;TRUE;26/09/2023;Reviewed in the United States September 26, 2023;593385691
+416;Where's Bluey?: A Search-and-Find Book;Cute book! Perfect for toddlers;Just my opinion;5;TRUE;13/09/2023;Reviewed in the United States September 13, 2023;593385691
+417;Where's Bluey?: A Search-and-Find Book;Cute book;Mele , Thank you , so soft nice material great fit ??;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;593385691
+418;Where's Bluey?: A Search-and-Find Book;Bluey!!;xpensivechris420;4;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;593385691
+419;Where's Bluey?: A Search-and-Find Book;Buy it! Such a cute little book;McKenna Phillips;5;TRUE;26/09/2023;Reviewed in the United States September 26, 2023;593385691
+420;The Wonderful Things You Will Be;Imagination plus;SharonSuds;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;385376715
+421;The Wonderful Things You Will Be;Wonderful book;Kiana l W;5;TRUE;10/10/2023;Reviewed in the United States October 10, 2023;385376715
+422;The Wonderful Things You Will Be;Great book;SUSAN ARBUTHNOT;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;385376715
+423;The Wonderful Things You Will Be;Such a cute book!;kris;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;385376715
+424;The Wonderful Things You Will Be;very cute book;Jane Heying;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;385376715
+425;The Wonderful Things You Will Be;Love this book;Brandon;5;TRUE;04/10/2023;Reviewed in the United States October 4, 2023;385376715
+426;The Wonderful Things You Will Be;Sweet sentiment, beautiful pictures;Becky;5;TRUE;26/09/2023;Reviewed in the United States September 26, 2023;385376715
+427;The Wonderful Things You Will Be;Cute Book;Katie Vickery;4;TRUE;30/09/2023;Reviewed in the United States September 30, 2023;385376715
+428;The Wonderful Things You Will Be;Great book;Leisle Vidaurri;5;TRUE;27/09/2023;Reviewed in the United States September 27, 2023;385376715
+429;The Wonderful Things You Will Be;The best children's book;Kelly;5;TRUE;20/09/2023;Reviewed in the United States September 20, 2023;385376715
+430;How to Catch a Dinosaur;Great hard back book. Speedy delivery and very reasonably priced;Jean McConville;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;1492680524
+431;How to Catch a Dinosaur;Book;Debra Dury;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;1492680524
+432;How to Catch a Dinosaur;Perfect!;Alexis;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;1492680524
+433;How to Catch a Dinosaur;super cute perfect as a gift;jordan;5;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;1492680524
+434;How to Catch a Dinosaur;A Brilliant, Kids Story of Building Courage;JoeSanch;5;TRUE;10/10/2023;Reviewed in the United States October 10, 2023;1492680524
+435;How to Catch a Dinosaur;Perfect for your Dino lovers;Kayla;5;TRUE;17/10/2023;Reviewed in the United States October 17, 2023;1492680524
+436;How to Catch a Dinosaur;Nice;Diane E Danks;5;TRUE;11/10/2023;Reviewed in the United States October 11, 2023;1492680524
+437;How to Catch a Dinosaur;Entertaining;April Hawkes;5;TRUE;18/10/2023;Reviewed in the United States October 18, 2023;1492680524
+438;How to Catch a Dinosaur;3 & 5 years old love;Penelope Witt;5;TRUE;18/10/2023;Reviewed in the United States October 18, 2023;1492680524
+439;How to Catch a Dinosaur;Cute book;Nancy C;5;TRUE;10/10/2023;Reviewed in the United States October 10, 2023;1492680524
+440;Hidden Potential: The Science of Achieving Greater Things;I have potential!;Menopausal woman;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;593653149
+441;Hidden Potential: The Science of Achieving Greater Things;An inspiring, Enjoyable, and Worthwhile Read;Kevin Stecyk;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;593653149
+442;Hidden Potential: The Science of Achieving Greater Things;Believe in you!;DavidJ;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;593653149
+443;Hidden Potential: The Science of Achieving Greater Things;Best book yet;Amazon Customer;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;593653149
+444;Hidden Potential: The Science of Achieving Greater Things;Inspirational and Fascinating!;mazarems;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;593653149
+445;Hidden Potential: The Science of Achieving Greater Things;hidden potential;Stu Schlackman;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;593653149
+446;Hidden Potential: The Science of Achieving Greater Things;Just started reading this book!It’s POWERFUL!;ND;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;593653149
+447;Hidden Potential: The Science of Achieving Greater Things;Enthusiastically presented - carefully structured;Dave Nat;4;FALSE;25/10/2023;Reviewed in the United States October 25, 2023;593653149
+448;Hidden Potential: The Science of Achieving Greater Things;A lot of our school system is set up one way which is to discourage failure;Caroline L.;4;FALSE;26/10/2023;Reviewed in the United States October 26, 2023;593653149
+449;Hidden Potential: The Science of Achieving Greater Things;Embrace the Power of Being a Sponge;Noreen Wise;5;FALSE;30/10/2023;Reviewed in the United States October 30, 2023;593653149
+450;The Christmas Fix;Heartfelt spicy Christmas story;The Romantic Rush Blog;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;1728295149
+451;The Christmas Fix;Sweet and spicy Christmas romance;Sadie Brink;4;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;1728295149
+452;The Christmas Fix;Christmas Story With a Twist;Lorna Collins;4;TRUE;21/08/2023;Reviewed in the United States August 21, 2023;1728295149
+453;The Christmas Fix;wow!;Irene Lowery;5;TRUE;07/10/2023;Reviewed in the United States October 7, 2023;1728295149
+454;The Christmas Fix;As always;Annemarie;5;TRUE;06/10/2023;Reviewed in the United States October 6, 2023;1728295149
+455;The Christmas Fix;The mamma jamma of all Christmas romances! Cat King is amazing!;NovelMomma;5;TRUE;01/12/2017;Reviewed in the United States December 1, 2017;1728295149
+456;The Christmas Fix;You did it again!;grannygritsinsc;5;TRUE;11/09/2023;Reviewed in the United States September 11, 2023;1728295149
+457;The Christmas Fix;Favorite Christmas book I re-read every year;Bookstagrambrielle;5;TRUE;21/12/2022;Reviewed in the United States December 21, 2022;1728295149
+458;The Christmas Fix;Love some Lucy Score;Kim;5;TRUE;24/09/2023;Reviewed in the United States September 24, 2023;1728295149
+459;The Christmas Fix;4 1/2 Stars;MC kindle;4;TRUE;12/08/2023;Reviewed in the United States August 12, 2023;1728295149
+460;Flash Cards: Sight Words;Good learning tool;Shirley Schmaltz;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;1338233580
+461;Flash Cards: Sight Words;Learning tools;I ordered a size up because it was plus size. It stated wide width but it wasn't.  It was tight. I wasn't comfortable at all.  I won't be purchasing another pair.;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;1338233580
+462;Flash Cards: Sight Words;Never too early to start!;Ashley Johnson;5;TRUE;23/09/2023;Reviewed in the United States September 23, 2023;1338233580
+463;Flash Cards: Sight Words;Learning;jesse padilla;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;1338233580
+464;Flash Cards: Sight Words;Amazing for struggling readers;Ryan Williams;5;TRUE;29/09/2023;Reviewed in the United States September 29, 2023;1338233580
+465;Flash Cards: Sight Words;Perfect;Liz;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;1338233580
+466;Flash Cards: Sight Words;ENSEÑA PALABRAS OBJETOS ANIMALES;Lina g.;5;TRUE;20/10/2023;Reviewed in the United States October 20, 2023;1338233580
+467;Flash Cards: Sight Words;Good cards to start you little once off;Kerrine E;5;TRUE;13/10/2023;Reviewed in the United States October 13, 2023;1338233580
+468;Flash Cards: Sight Words;Good quality. Every 5-6 year old should have these to master sight words.;Marla Leung;5;TRUE;14/09/2023;Reviewed in the United States September 14, 2023;1338233580
+469;Flash Cards: Sight Words;Good fit.;PSB;5;TRUE;11/10/2023;Reviewed in the United States October 11, 2023;1338233580
+470;I Love You Like No Otter: A Funny and Sweet Animal Board Book for Babies and Toddlers this Christmas (Punderland);Baby Shower Gift;Tori E;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;1728213746
+471;I Love You Like No Otter: A Funny and Sweet Animal Board Book for Babies and Toddlers this Christmas (Punderland);Great for little ones!;Jeanette F. Reeder;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;1728213746
+472;I Love You Like No Otter: A Funny and Sweet Animal Board Book for Babies and Toddlers this Christmas (Punderland);Great book;Shayla;5;TRUE;14/10/2023;Reviewed in the United States October 14, 2023;1728213746
+473;I Love You Like No Otter: A Funny and Sweet Animal Board Book for Babies and Toddlers this Christmas (Punderland);Baby favorite ??;Jennifer Gaudet;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;1728213746
+474;I Love You Like No Otter: A Funny and Sweet Animal Board Book for Babies and Toddlers this Christmas (Punderland);Cute!;D. M. Peparata;5;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;1728213746
+475;I Love You Like No Otter: A Funny and Sweet Animal Board Book for Babies and Toddlers this Christmas (Punderland);Perfect!;Thelma Otto;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;1728213746
+476;I Love You Like No Otter: A Funny and Sweet Animal Board Book for Babies and Toddlers this Christmas (Punderland);Great;Great book loved giving as a card;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;1728213746
+477;I Love You Like No Otter: A Funny and Sweet Animal Board Book for Babies and Toddlers this Christmas (Punderland);The books are sturdy for toddlers who don't know how to be gentle yet.;R.J.;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1728213746
+478;I Love You Like No Otter: A Funny and Sweet Animal Board Book for Babies and Toddlers this Christmas (Punderland);Good quality children book.;Mimi Tran, Fairfax, VA;5;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;1728213746
+479;I Love You Like No Otter: A Funny and Sweet Animal Board Book for Babies and Toddlers this Christmas (Punderland);Really sweet!;Kindle Customer;5;TRUE;20/09/2023;Reviewed in the United States September 20, 2023;1728213746
+480;Chicka Chicka Boom Boom (Board Book);One of my favorites;Lynn Crofton;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;1442450703
+481;Chicka Chicka Boom Boom (Board Book);Learning the alphabet in a fun way;Nahomi;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;1442450703
+482;Chicka Chicka Boom Boom (Board Book);Great book;monica;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1442450703
+483;Chicka Chicka Boom Boom (Board Book);Fun Book;Emma Rosencrans;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;1442450703
+484;Chicka Chicka Boom Boom (Board Book);A Classic!;MW;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;1442450703
+485;Chicka Chicka Boom Boom (Board Book);Favorite;Tizzy;5;TRUE;06/10/2023;Reviewed in the United States October 6, 2023;1442450703
+486;Chicka Chicka Boom Boom (Board Book);Birthday gift;Amazon Customer;5;TRUE;13/10/2023;Reviewed in the United States October 13, 2023;1442450703
+487;Chicka Chicka Boom Boom (Board Book);such a classic;aiden;5;TRUE;20/10/2023;Reviewed in the United States October 20, 2023;1442450703
+488;Chicka Chicka Boom Boom (Board Book);Great Book;TD;5;TRUE;15/10/2023;Reviewed in the United States October 15, 2023;1442450703
+489;Chicka Chicka Boom Boom (Board Book);Great book!;amy larrow;5;TRUE;07/10/2023;Reviewed in the United States October 7, 2023;1442450703
+490;From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen (Snoop Dogg Cookbook, Celebrity Cookbook with Soul Food Recipes) (Snoop Dog x Chronicle Books);Hilarious but Good Cookbook;Jen Rosario;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;1452179611
+491;From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen (Snoop Dogg Cookbook, Celebrity Cookbook with Soul Food Recipes) (Snoop Dog x Chronicle Books);I think I want to buy this cookbook to have it around;Karen Shrock-Jones;5;TRUE;13/10/2023;Reviewed in the United States October 13, 2023;1452179611
+492;From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen (Snoop Dogg Cookbook, Celebrity Cookbook with Soul Food Recipes) (Snoop Dog x Chronicle Books);White Elephant Gift;Dbaker17;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1452179611
+493;From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen (Snoop Dogg Cookbook, Celebrity Cookbook with Soul Food Recipes) (Snoop Dog x Chronicle Books);The DOGG can cook!;Richard Hull;5;TRUE;15/10/2023;Reviewed in the United States October 15, 2023;1452179611
+494;From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen (Snoop Dogg Cookbook, Celebrity Cookbook with Soul Food Recipes) (Snoop Dog x Chronicle Books);So good;Jessica Macaluso;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;1452179611
+495;From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen (Snoop Dogg Cookbook, Celebrity Cookbook with Soul Food Recipes) (Snoop Dog x Chronicle Books);Dirty Santa;Ramona;5;TRUE;05/10/2023;Reviewed in the United States October 5, 2023;1452179611
+496;From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen (Snoop Dogg Cookbook, Celebrity Cookbook with Soul Food Recipes) (Snoop Dog x Chronicle Books);Loved it;Emily Oliver;5;TRUE;15/10/2023;Reviewed in the United States October 15, 2023;1452179611
+497;From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen (Snoop Dogg Cookbook, Celebrity Cookbook with Soul Food Recipes) (Snoop Dog x Chronicle Books);Love it!;Abigail;5;TRUE;18/10/2023;Reviewed in the United States October 18, 2023;1452179611
+498;From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen (Snoop Dogg Cookbook, Celebrity Cookbook with Soul Food Recipes) (Snoop Dog x Chronicle Books);LOVE!;Mishelle Hall;5;TRUE;27/09/2023;Reviewed in the United States September 27, 2023;1452179611
+499;From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen (Snoop Dogg Cookbook, Celebrity Cookbook with Soul Food Recipes) (Snoop Dog x Chronicle Books);gift;Karli;5;TRUE;05/10/2023;Reviewed in the United States October 5, 2023;1452179611
+500;The Shadow Work Journal: A Guide to Integrate and Transcend your Shadows;A Transformative Journey Within: The Shadow-Work Journal;Amazon Customer;5;TRUE;18/10/2023;Reviewed in the United States October 18, 2023;B09KN2QCML
+501;The Shadow Work Journal: A Guide to Integrate and Transcend your Shadows;Glad to see it and read it, but came a little dirty;Khu Xiong;4;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;B09KN2QCML
+502;The Shadow Work Journal: A Guide to Integrate and Transcend your Shadows;Amazing journal!;Melissa;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;B09KN2QCML
+503;The Shadow Work Journal: A Guide to Integrate and Transcend your Shadows;So happy I gave in to the hype!!;Emma;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;B09KN2QCML
+504;The Shadow Work Journal: A Guide to Integrate and Transcend your Shadows;I’m crying;Tina P;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;B09KN2QCML
+505;The Shadow Work Journal: A Guide to Integrate and Transcend your Shadows;Release your childhood trauma.;Meanmaggie;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;B09KN2QCML
+506;The Shadow Work Journal: A Guide to Integrate and Transcend your Shadows;Be prepared;Roishi;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;B09KN2QCML
+507;The Shadow Work Journal: A Guide to Integrate and Transcend your Shadows;Excited;Mo Mamii;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;B09KN2QCML
+508;The Shadow Work Journal: A Guide to Integrate and Transcend your Shadows;Shadow Journaling;Anissa Gaskin;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;B09KN2QCML
+509;The Shadow Work Journal: A Guide to Integrate and Transcend your Shadows;Take your time as you read it. Dont rush;Tracy Carter;4;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;B09KN2QCML
+510;Interesting Facts For Curious Minds: 1572 Random But Mind-Blowing Facts About History, Science, Pop Culture And Everything In Between;Great book;Piotr;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;B0B6XFT4RH
+511;Interesting Facts For Curious Minds: 1572 Random But Mind-Blowing Facts About History, Science, Pop Culture And Everything In Between;Excellent!;Mandi;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;B0B6XFT4RH
+512;Interesting Facts For Curious Minds: 1572 Random But Mind-Blowing Facts About History, Science, Pop Culture And Everything In Between;Great book for curious young minds;Dawn McEwen;5;TRUE;10/10/2023;Reviewed in the United States October 10, 2023;B0B6XFT4RH
+513;Interesting Facts For Curious Minds: 1572 Random But Mind-Blowing Facts About History, Science, Pop Culture And Everything In Between;Fabulous book;Sarah Gailey;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;B0B6XFT4RH
+514;Interesting Facts For Curious Minds: 1572 Random But Mind-Blowing Facts About History, Science, Pop Culture And Everything In Between;Great value for the family;Carla;5;TRUE;10/10/2023;Reviewed in the United States October 10, 2023;B0B6XFT4RH
+515;Interesting Facts For Curious Minds: 1572 Random But Mind-Blowing Facts About History, Science, Pop Culture And Everything In Between;great book!!!!;Amazon Customer;5;TRUE;01/10/2023;Reviewed in the United States October 1, 2023;B0B6XFT4RH
+516;Interesting Facts For Curious Minds: 1572 Random But Mind-Blowing Facts About History, Science, Pop Culture And Everything In Between;Great Gift;Denise50;5;TRUE;01/10/2023;Reviewed in the United States October 1, 2023;B0B6XFT4RH
+517;Interesting Facts For Curious Minds: 1572 Random But Mind-Blowing Facts About History, Science, Pop Culture And Everything In Between;Interesting Facts For Curious Minds: 1572 Random But Mind-Blowing Facts About History;Sharon;5;TRUE;13/09/2023;Reviewed in the United States September 13, 2023;B0B6XFT4RH
+518;Interesting Facts For Curious Minds: 1572 Random But Mind-Blowing Facts About History, Science, Pop Culture And Everything In Between;Funny, and scary!;Jann A Gargiulo;5;TRUE;10/09/2023;Reviewed in the United States September 10, 2023;B0B6XFT4RH
+519;Interesting Facts For Curious Minds: 1572 Random But Mind-Blowing Facts About History, Science, Pop Culture And Everything In Between;Great Gift;Nikki;5;TRUE;18/09/2023;Reviewed in the United States September 18, 2023;B0B6XFT4RH
+520;There Was an Old Lady Who Swallowed a Turkey!;Cute book;Christina Clark;4;TRUE;22/02/2023;Reviewed in the United States February 22, 2023;545931908
+521;There Was an Old Lady Who Swallowed a Turkey!;Enjoyable Read;Amazon Customer;5;TRUE;10/01/2023;Reviewed in the United States January 10, 2023;545931908
+522;There Was an Old Lady Who Swallowed a Turkey!;Cute;Lorin;4;TRUE;30/12/2022;Reviewed in the United States December 30, 2022;545931908
+523;There Was an Old Lady Who Swallowed a Turkey!;Perfect for a teacher at Thanksgiving time;Keri Bechtel;5;TRUE;15/01/2023;Reviewed in the United States January 15, 2023;545931908
+524;There Was an Old Lady Who Swallowed a Turkey!;This wasnt enjoyed by the kids;Frances;3;TRUE;26/11/2022;Reviewed in the United States November 26, 2022;545931908
+525;There Was an Old Lady Who Swallowed a Turkey!;Funny book;g;5;TRUE;07/01/2023;Reviewed in the United States January 7, 2023;545931908
+526;There Was an Old Lady Who Swallowed a Turkey!;Kids like these books and it’s easy reading;Ski;5;TRUE;03/01/2023;Reviewed in the United States January 3, 2023;545931908
+527;There Was an Old Lady Who Swallowed a Turkey!;Class fav;T.K:);5;TRUE;16/12/2022;Reviewed in the United States December 16, 2022;545931908
+528;There Was an Old Lady Who Swallowed a Turkey!;Love it;Krissy;5;TRUE;12/12/2022;Reviewed in the United States December 12, 2022;545931908
+529;There Was an Old Lady Who Swallowed a Turkey!;Great book;LUELLA STRASSER;4;TRUE;08/07/2022;Reviewed in the United States July 8, 2022;545931908
+530;Elon Musk;If you want to grow an Elon Musk personality, skip standard life advice;Ethan;5;TRUE;09/10/2023;Reviewed in the United States October 9, 2023;1982181281
+531;Elon Musk;Rocket Man;David Shulman;5;TRUE;14/10/2023;Reviewed in the United States October 14, 2023;1982181281
+532;Elon Musk;Isaacson's best - a tour de force on three dimensions;Nilendu Misra;5;TRUE;15/09/2023;Reviewed in the United States September 15, 2023;1982181281
+533;Elon Musk;An Expedition into the Genius of Elon Musk: A Review of Walter Isaacson’s Portrayal;*AT;5;TRUE;14/10/2023;Reviewed in the United States October 14, 2023;1982181281
+534;Elon Musk;A Great Man of History;Mark R. Whittington;5;TRUE;15/10/2023;Reviewed in the United States October 15, 2023;1982181281
+535;Elon Musk;Approach this book Fearlessly;G.R.Egoville;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;1982181281
+536;Elon Musk;As complex as the man himself, but well told for the rest of us;Craig W.;5;TRUE;10/10/2023;Reviewed in the United States October 10, 2023;1982181281
+537;Elon Musk;Most interesting book I have ever read.;wylabird;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;1982181281
+538;Elon Musk;Illuminating story behind the entrepreneur and his endeavors;Joel Zigler;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;1982181281
+539;Elon Musk;One word… Inspiring;G. lederman;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;1982181281
+540;The Complete Cookbook for Young Chefs: 100+ Recipes that You'll Love to Cook and Eat;Mostly good info - for kids of all ages - with reservations as noted! ??;JANET;4;TRUE;27/09/2023;Reviewed in the United States September 27, 2023;1492670022
+541;The Complete Cookbook for Young Chefs: 100+ Recipes that You'll Love to Cook and Eat;The perfect guide for young (and old) chefs! Exactly what I was looking for!;EyesofLight;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1492670022
+542;The Complete Cookbook for Young Chefs: 100+ Recipes that You'll Love to Cook and Eat;Excellent Fundamentals;Critical Eye;4;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;1492670022
+543;The Complete Cookbook for Young Chefs: 100+ Recipes that You'll Love to Cook and Eat;Great for kids;Ray Rickstrew;5;TRUE;19/09/2023;Reviewed in the United States September 19, 2023;1492670022
+544;The Complete Cookbook for Young Chefs: 100+ Recipes that You'll Love to Cook and Eat;Rather busy layout. Almost overwhelming, in fact.;jcbme;4;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;1492670022
+545;The Complete Cookbook for Young Chefs: 100+ Recipes that You'll Love to Cook and Eat;Great little book;Kimberly Sheppard;5;TRUE;08/10/2023;Reviewed in the United States October 8, 2023;1492670022
+546;The Complete Cookbook for Young Chefs: 100+ Recipes that You'll Love to Cook and Eat;GREAT COOKBOOK;Nana;5;TRUE;01/10/2023;Reviewed in the United States October 1, 2023;1492670022
+547;The Complete Cookbook for Young Chefs: 100+ Recipes that You'll Love to Cook and Eat;High School Student Loves This Book;Joyce R.;5;TRUE;08/10/2023;Reviewed in the United States October 8, 2023;1492670022
+548;The Complete Cookbook for Young Chefs: 100+ Recipes that You'll Love to Cook and Eat;A hit for a preteen;Kathie Jamison;5;TRUE;30/09/2023;Reviewed in the United States September 30, 2023;1492670022
+549;The Complete Cookbook for Young Chefs: 100+ Recipes that You'll Love to Cook and Eat;My girls love it;Marsha Ellis;5;TRUE;15/10/2023;Reviewed in the United States October 15, 2023;1492670022
+550;Llama Llama Gives Thanks;Great thanksgiving book for kids;Amazon Member;5;TRUE;22/10/2023;Reviewed in the United States October 22, 2023;110199715X
+551;Llama Llama Gives Thanks;Expected a bit more from the story;Megan;4;TRUE;15/12/2022;Reviewed in the United States December 15, 2022;110199715X
+552;Llama Llama Gives Thanks;Llama Llama;Danielle;5;TRUE;10/11/2022;Reviewed in the United States November 10, 2022;110199715X
+553;Llama Llama Gives Thanks;Short, good for bedtime;Amazon Customer;5;TRUE;29/12/2022;Reviewed in the United States December 29, 2022;110199715X
+554;Llama Llama Gives Thanks;Simple and Sweet Thanksgiving Book with Llama Llama;BelleBookWorm;4;TRUE;22/11/2021;Reviewed in the United States November 22, 2021;110199715X
+555;Llama Llama Gives Thanks;Cute Holiday Fun;Shan Kay;5;TRUE;27/09/2017;Reviewed in the United States September 27, 2017;110199715X
+556;Llama Llama Gives Thanks;Returned;Johnie;3;TRUE;03/11/2022;Reviewed in the United States November 3, 2022;110199715X
+557;Llama Llama Gives Thanks;It is good for toddlers as it is a board book and ...;A Reviewer;4;TRUE;07/11/2017;Reviewed in the United States November 7, 2017;110199715X
+558;Llama Llama Gives Thanks;Another great Llama Llama board book.;Katie;5;TRUE;23/08/2017;Reviewed in the United States August 23, 2017;110199715X
+559;Llama Llama Gives Thanks;Fun book addressing being thankful.;Kathy OH;5;TRUE;04/11/2021;Reviewed in the United States November 4, 2021;110199715X
+560;Tom Lake: A Reese's Book Club Pick;A Buddhist blend of Grovers Corners and northern Michigan;switterbug/Betsey Van Horn;5;TRUE;10/08/2023;Reviewed in the United States August 10, 2023;006332752X
+561;Tom Lake: A Reese's Book Club Pick;Thornton Wilder Redux;Carollyn A. James;4;TRUE;11/10/2023;Reviewed in the United States October 11, 2023;006332752X
+562;Tom Lake: A Reese's Book Club Pick;A Book to Savor and Reflect On;Bonnie Brody;5;TRUE;10/09/2023;Reviewed in the United States September 10, 2023;006332752X
+563;Tom Lake: A Reese's Book Club Pick;The Play Our Town Revisited;E. Neal;4;TRUE;06/10/2023;Reviewed in the United States October 6, 2023;006332752X
+564;Tom Lake: A Reese's Book Club Pick;A sleeper hit :);Mamabotanica;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;006332752X
+565;Tom Lake: A Reese's Book Club Pick;Read Them All;Leigh Ann Williams;4;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;006332752X
+566;Tom Lake: A Reese's Book Club Pick;A fabulous story from one of America's great novelists;Bway Jack;5;TRUE;27/08/2023;Reviewed in the United States August 27, 2023;006332752X
+567;Tom Lake: A Reese's Book Club Pick;it’s slow and idyllic;G. Wallace;4;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;006332752X
+568;Tom Lake: A Reese's Book Club Pick;I absolutely loved this book!;Kindle Customer;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;006332752X
+569;Tom Lake: A Reese's Book Club Pick;WOW;Cassandra Martin;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;006332752X
+570;The Covenant of Water (Oprah's Book Club);Long and dense, but ultimately a beautiful tour de force;Greg Barlin;5;TRUE;01/10/2023;Reviewed in the United States October 1, 2023;802162177
+571;The Covenant of Water (Oprah's Book Club);A Monumental and Original Family Saga That Packs an Emotional Wallop;Cathryn Conroy;5;TRUE;27/09/2023;Reviewed in the United States September 27, 2023;802162177
+572;The Covenant of Water (Oprah's Book Club);Two Verghese books in a week - I must be nuts!;Elizabeth L. Boyer;5;TRUE;05/10/2023;Reviewed in the United States October 5, 2023;802162177
+573;The Covenant of Water (Oprah's Book Club);Stunning!;A.S.;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;802162177
+574;The Covenant of Water (Oprah's Book Club);A Masterpience;Jeanne Carter;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;802162177
+575;The Covenant of Water (Oprah's Book Club);Beautiful book!;Tasha;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;802162177
+576;The Covenant of Water (Oprah's Book Club);Incredible story;Kindle Customer;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;802162177
+577;The Covenant of Water (Oprah's Book Club);775 pages wasn't enough!;Princess;5;TRUE;20/10/2023;Reviewed in the United States October 20, 2023;802162177
+578;The Covenant of Water (Oprah's Book Club);Brilliant storytelling;Romfan;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;802162177
+579;The Covenant of Water (Oprah's Book Club);An absorbing gem;M. Roden;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;802162177
+580;Dirty Thirty (30) (Stephanie Plum);Finally, some movement!;AngelosGal;4;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1668003090
+581;Dirty Thirty (30) (Stephanie Plum);Never Disappoints!;Andrea Just;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1668003090
+582;Dirty Thirty (30) (Stephanie Plum);Terrific Stephanie Plum Caper;Lois Fisher;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;1668003090
+583;Dirty Thirty (30) (Stephanie Plum);Another Masterpiece;Benefits Babe;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1668003090
+584;Dirty Thirty (30) (Stephanie Plum);Enjoying myself thoroughly;Elizabeth Ervin;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;1668003090
+585;Dirty Thirty (30) (Stephanie Plum);Heads and Tails;Elsie;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1668003090
+586;Dirty Thirty (30) (Stephanie Plum);Never disappoints!;Amazon Customer;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;1668003090
+587;Dirty Thirty (30) (Stephanie Plum);Dirty Thirty;Stacey Smith;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1668003090
+588;Dirty Thirty (30) (Stephanie Plum);Cliffhanger extraordinaire!!;J. A. Bacon;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1668003090
+589;Dirty Thirty (30) (Stephanie Plum);What an ending!;Kathryn Bowe;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;1668003090
+590;How to Catch an Elf;Kids book;Martha Polus;5;TRUE;05/10/2023;Reviewed in the United States October 5, 2023;1492646318
+591;How to Catch an Elf;Christmas book;Kyle Horton;5;TRUE;21/09/2023;Reviewed in the United States September 21, 2023;1492646318
+592;How to Catch an Elf;A cute Christmas book for STEM;Carol Mccoy;5;TRUE;04/09/2023;Reviewed in the United States September 4, 2023;1492646318
+593;How to Catch an Elf;Children's book;Kathy Short;5;TRUE;21/05/2023;Reviewed in the United States May 21, 2023;1492646318
+594;How to Catch an Elf;Beautiful Book;mbland;5;TRUE;29/12/2022;Reviewed in the United States December 29, 2022;1492646318
+595;How to Catch an Elf;Cute book;ShiAnne Lombard;5;TRUE;30/05/2023;Reviewed in the United States May 30, 2023;1492646318
+596;How to Catch an Elf;Cute book;HEATHER ASHER;5;TRUE;27/03/2023;Reviewed in the United States March 27, 2023;1492646318
+597;How to Catch an Elf;How to Catch..;Jourdan Watts;5;TRUE;27/03/2023;Reviewed in the United States March 27, 2023;1492646318
+598;How to Catch an Elf;Christmas book;Happy Gammy;5;TRUE;05/03/2023;Reviewed in the United States March 5, 2023;1492646318
+599;How to Catch an Elf;So cute;Meghan;5;TRUE;19/12/2022;Reviewed in the United States December 19, 2022;1492646318
+600;School Zone - Multiplication 0-12 Flash Cards - Ages 8+, 3rd Grade, 4th Grade, Elementary Math, Multiplication Facts, Common Core, and More;Okay Review;Shariah;4;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;938256939
+601;School Zone - Multiplication 0-12 Flash Cards - Ages 8+, 3rd Grade, 4th Grade, Elementary Math, Multiplication Facts, Common Core, and More;Great cards;Jax;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;938256939
+602;School Zone - Multiplication 0-12 Flash Cards - Ages 8+, 3rd Grade, 4th Grade, Elementary Math, Multiplication Facts, Common Core, and More;Work as intended;Emily;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;938256939
+603;School Zone - Multiplication 0-12 Flash Cards - Ages 8+, 3rd Grade, 4th Grade, Elementary Math, Multiplication Facts, Common Core, and More;Great learning tool!;Libby Miller;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;938256939
+604;School Zone - Multiplication 0-12 Flash Cards - Ages 8+, 3rd Grade, 4th Grade, Elementary Math, Multiplication Facts, Common Core, and More;Simple, great value;jesse;5;TRUE;19/10/2023;Reviewed in the United States October 19, 2023;938256939
+605;School Zone - Multiplication 0-12 Flash Cards - Ages 8+, 3rd Grade, 4th Grade, Elementary Math, Multiplication Facts, Common Core, and More;Great buy for my 6th and 7th grader ????;carlwana brown;5;TRUE;25/09/2023;Reviewed in the United States September 25, 2023;938256939
+606;School Zone - Multiplication 0-12 Flash Cards - Ages 8+, 3rd Grade, 4th Grade, Elementary Math, Multiplication Facts, Common Core, and More;A perfect tool for learning!;Rachael;5;TRUE;07/10/2023;Reviewed in the United States October 7, 2023;938256939
+607;School Zone - Multiplication 0-12 Flash Cards - Ages 8+, 3rd Grade, 4th Grade, Elementary Math, Multiplication Facts, Common Core, and More;Great time table math cards!;JNix;5;TRUE;03/10/2023;Reviewed in the United States October 3, 2023;938256939
+608;School Zone - Multiplication 0-12 Flash Cards - Ages 8+, 3rd Grade, 4th Grade, Elementary Math, Multiplication Facts, Common Core, and More;Exactly what we needed;Tiffany Chatham;5;TRUE;25/09/2023;Reviewed in the United States September 25, 2023;938256939
+609;School Zone - Multiplication 0-12 Flash Cards - Ages 8+, 3rd Grade, 4th Grade, Elementary Math, Multiplication Facts, Common Core, and More;Multiplication flashcards;Jay;5;TRUE;25/09/2023;Reviewed in the United States September 25, 2023;938256939
+610;Hello, Baby Animals: A Durable High-Contrast Black-and-White Board Book for Newborns and Babies (High-Contrast Books);Love;WWafa;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1938093682
+611;Hello, Baby Animals: A Durable High-Contrast Black-and-White Board Book for Newborns and Babies (High-Contrast Books);My grandbaby loved the book;melissa Lewis;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;1938093682
+612;Hello, Baby Animals: A Durable High-Contrast Black-and-White Board Book for Newborns and Babies (High-Contrast Books);Perfect 1st baby book!;Loren Kirklin;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;1938093682
+613;Hello, Baby Animals: A Durable High-Contrast Black-and-White Board Book for Newborns and Babies (High-Contrast Books);Such a cute book!;Katherine Jimenez;5;TRUE;25/09/2023;Reviewed in the United States September 25, 2023;1938093682
+614;Hello, Baby Animals: A Durable High-Contrast Black-and-White Board Book for Newborns and Babies (High-Contrast Books);Cute and great for babies;Barb;5;TRUE;23/09/2023;Reviewed in the United States September 23, 2023;1938093682
+615;Hello, Baby Animals: A Durable High-Contrast Black-and-White Board Book for Newborns and Babies (High-Contrast Books);So cute..;Latrice;5;TRUE;11/10/2023;Reviewed in the United States October 11, 2023;1938093682
+616;Hello, Baby Animals: A Durable High-Contrast Black-and-White Board Book for Newborns and Babies (High-Contrast Books);Entertaining;Evelyn;5;TRUE;21/09/2023;Reviewed in the United States September 21, 2023;1938093682
+617;Hello, Baby Animals: A Durable High-Contrast Black-and-White Board Book for Newborns and Babies (High-Contrast Books);My child loves this book!;CJ;5;TRUE;30/09/2023;Reviewed in the United States September 30, 2023;1938093682
+618;Hello, Baby Animals: A Durable High-Contrast Black-and-White Board Book for Newborns and Babies (High-Contrast Books);Cute book;Barbette Quigley;5;TRUE;24/09/2023;Reviewed in the United States September 24, 2023;1938093682
+619;Hello, Baby Animals: A Durable High-Contrast Black-and-White Board Book for Newborns and Babies (High-Contrast Books);Favorite book;Alice Chan;5;TRUE;01/10/2023;Reviewed in the United States October 1, 2023;1938093682
+620;Haunting Adeline (Cat and Mouse Duet);The Wattpad and AO3 girlies get it;Gen Backes;4;TRUE;29/08/2023;Reviewed in the United States August 29, 2023;B09CGGV8DX
+621;Haunting Adeline (Cat and Mouse Duet);Help, I've fallen in love with a stalker;readwithevelane;5;TRUE;08/02/2022;Reviewed in the United States February 8, 2022;B09CGGV8DX
+622;Haunting Adeline (Cat and Mouse Duet);Teen review: dark;Ashley;4;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;B09CGGV8DX
+623;Haunting Adeline (Cat and Mouse Duet);this book remade my moral compass;Nat;5;TRUE;01/09/2023;Reviewed in the United States September 1, 2023;B09CGGV8DX
+624;Haunting Adeline (Cat and Mouse Duet);better than I expected . and soooo spicy!!;Jennifer  Perz;4;TRUE;14/10/2023;Reviewed in the United States October 14, 2023;B09CGGV8DX
+625;Haunting Adeline (Cat and Mouse Duet);Was on the edge of my seat the entire way.;Jenna Clark;5;TRUE;04/08/2023;Reviewed in the United States August 4, 2023;B09CGGV8DX
+626;Haunting Adeline (Cat and Mouse Duet);4.5 stars TiTok made me and I'm so glad I listened;Jennifer;4;TRUE;23/08/2023;Reviewed in the United States August 23, 2023;B09CGGV8DX
+627;Haunting Adeline (Cat and Mouse Duet);I'm a complete mess right now.;Chelsea;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;B09CGGV8DX
+628;Haunting Adeline (Cat and Mouse Duet);Solid 4/5;Ashlee Preece;4;TRUE;18/09/2023;Reviewed in the United States September 18, 2023;B09CGGV8DX
+629;Haunting Adeline (Cat and Mouse Duet);It's disturbingly good;K;5;TRUE;06/09/2023;Reviewed in the United States September 6, 2023;B09CGGV8DX
+630;Verity;Dark, Twisted, & Shocking -- Lives up to the Hype!;JHSiess;4;TRUE;13/01/2022;Reviewed in the United States January 13, 2022;1538724731
+631;Verity;Great Idea, Perfect First Hoover Read;Adam Manning;4;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;1538724731
+632;Verity;"A Riveting Tale of Love, Loss, and Redemption - ""Regretting You"" by Colleen Hoover";LW;5;TRUE;27/07/2023;Reviewed in the United States July 27, 2023;1538724731
+633;Verity;I COULD NOT PUT THIS ONE DOWN;Victoria Givens;5;TRUE;26/09/2023;Reviewed in the United States September 26, 2023;1538724731
+634;Verity;Holy Cow!!;major.book.lover;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;1538724731
+635;Verity;Definitely a page turner;Ohioperson;4;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;1538724731
+636;Verity;"""Fun"" story, too much language";JoVoNsTeR;4;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;1538724731
+637;Verity;Oh my wow!;Vx2Kent;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;1538724731
+638;Verity;Deep and Dark;Tess;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;1538724731
+639;Verity;Colleen Hoover does it again;Irish 11;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;1538724731
+640;A Court of Mist and Fury (A Court of Thorns and Roses, 2);Love the world…Dislike Feyre.;Diandra Huffman;4;TRUE;11/09/2023;Reviewed in the United States September 11, 2023;1635575583
+641;A Court of Mist and Fury (A Court of Thorns and Roses, 2);Mesmerizing and Phenomenal Second Book;Yami's Bookshelf;5;TRUE;22/10/2023;Reviewed in the United States October 22, 2023;1635575583
+642;A Court of Mist and Fury (A Court of Thorns and Roses, 2);Feyre is healing from Under the Mountain, but is she really? (SPOILERS);Alyshia;5;TRUE;09/08/2023;Reviewed in the United States August 9, 2023;1635575583
+643;A Court of Mist and Fury (A Court of Thorns and Roses, 2);All hail High Lord Rhys;Bailee Williams;4;TRUE;06/09/2023;Reviewed in the United States September 6, 2023;1635575583
+644;A Court of Mist and Fury (A Court of Thorns and Roses, 2);The ending was stunning, as always, but I had character issues.;Brittany;4;TRUE;29/06/2016;Reviewed in the United States June 29, 2016;1635575583
+645;A Court of Mist and Fury (A Court of Thorns and Roses, 2);I was a survivor, and I was strong. I would not be weak, or helpless again.;Mikee Andrea Quiambao;5;TRUE;24/08/2016;Reviewed in the United States August 24, 2016;1635575583
+646;A Court of Mist and Fury (A Court of Thorns and Roses, 2);“Hello, Feyre darling,” he purred.;Melynda Wangsness;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;1635575583
+647;A Court of Mist and Fury (A Court of Thorns and Roses, 2);Loved it!;Christin;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;1635575583
+648;A Court of Mist and Fury (A Court of Thorns and Roses, 2);I devoured this book in less than 2 days!!!!;Erin J;5;TRUE;18/09/2023;Reviewed in the United States September 18, 2023;1635575583
+649;A Court of Mist and Fury (A Court of Thorns and Roses, 2);Rhysand + You = Hurry up and read this book!;Amazon Customer;5;TRUE;26/05/2016;Reviewed in the United States May 26, 2016;1635575583
+650;The Creative Act: A Way of Being;“If inspiration does not come to lead the way, we show up anyway.”;Jason Landry;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;593652886
+651;The Creative Act: A Way of Being;"Helpful advice from a trusted ""source""";Mr. Richard Compton;4;TRUE;19/08/2023;Reviewed in the United States August 19, 2023;593652886
+652;The Creative Act: A Way of Being;Stupid logical. Great reminder. Effectively motivational.;Pauline Martin;5;TRUE;11/10/2023;Reviewed in the United States October 11, 2023;593652886
+653;The Creative Act: A Way of Being;This book is something very special and here is why.;Chelley & Terry;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;593652886
+654;The Creative Act: A Way of Being;If you are an artist, a book not to be missed;EdithC;5;TRUE;03/10/2023;Reviewed in the United States October 3, 2023;593652886
+655;The Creative Act: A Way of Being;Deserves to be on the book shelf of artists and writers for sure;C. D. Johnson;4;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;593652886
+656;The Creative Act: A Way of Being;You won't be disappointed!;TJ Genay;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;593652886
+657;The Creative Act: A Way of Being;The most important question it asks is: Why make art? The answer: To connect.;Cody Allen;5;TRUE;05/07/2023;Reviewed in the United States July 5, 2023;593652886
+658;The Creative Act: A Way of Being;Lifesava;Sahan Deb;5;TRUE;19/10/2023;Reviewed in the United States October 19, 2023;593652886
+659;The Creative Act: A Way of Being;He loves it;Auntie LoLo;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;593652886
+660;My First Library : Boxset of 10 Board Books for Kids (My First Book of);Great purchase!;Theresa;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;9387779262
+661;My First Library : Boxset of 10 Board Books for Kids (My First Book of);Good little book set;Alicia;5;TRUE;14/10/2023;Reviewed in the United States October 14, 2023;9387779262
+662;My First Library : Boxset of 10 Board Books for Kids (My First Book of);My busy 2 year old grandson will slow down to look at these books with me;Jodie Elaine Wicker;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;9387779262
+663;My First Library : Boxset of 10 Board Books for Kids (My First Book of);Small but nice;Kimberly Langlois;4;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;9387779262
+664;My First Library : Boxset of 10 Board Books for Kids (My First Book of);Wonderful first books!;butch russell;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;9387779262
+665;My First Library : Boxset of 10 Board Books for Kids (My First Book of);Great Gift that is fun and educational...;JT;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;9387779262
+666;My First Library : Boxset of 10 Board Books for Kids (My First Book of);Nice books but small;kristen Nicole fino;4;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;9387779262
+667;My First Library : Boxset of 10 Board Books for Kids (My First Book of);Cute & tiny for baby hands;Dalz;4;TRUE;14/10/2023;Reviewed in the United States October 14, 2023;9387779262
+668;My First Library : Boxset of 10 Board Books for Kids (My First Book of);A good variety of learning subjects for a toddler.;GB;5;TRUE;17/10/2023;Reviewed in the United States October 17, 2023;9387779262
+669;My First Library : Boxset of 10 Board Books for Kids (My First Book of);Reading does the brain good;Steven Cannon;5;TRUE;16/10/2023;Reviewed in the United States October 16, 2023;9387779262
+670;Forever Strong: A New, Science-Based Strategy for Aging Well;Bringing together the science and making health possible at any age;Lisa;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1668007878
+671;Forever Strong: A New, Science-Based Strategy for Aging Well;Never quit, muscle strength in everything;CAM;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;1668007878
+672;Forever Strong: A New, Science-Based Strategy for Aging Well;A must read for anyone who wants to age with vitality;Teresa;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;1668007878
+673;Forever Strong: A New, Science-Based Strategy for Aging Well;Informative;Rav3nsj3w3l;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;1668007878
+674;Forever Strong: A New, Science-Based Strategy for Aging Well;"This book isn't just about looking better; it's about living stronger, healthier lives.";Heather Jacoby;5;TRUE;20/10/2023;Reviewed in the United States October 20, 2023;1668007878
+675;Forever Strong: A New, Science-Based Strategy for Aging Well;This will be my change;Annette Wright;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;1668007878
+676;Forever Strong: A New, Science-Based Strategy for Aging Well;This Changes Everything We Used to Think;ELutz;5;TRUE;20/10/2023;Reviewed in the United States October 20, 2023;1668007878
+677;Forever Strong: A New, Science-Based Strategy for Aging Well;A comprehensive guide to achieving healthy longevity;Peter;5;TRUE;17/10/2023;Reviewed in the United States October 17, 2023;1668007878
+678;Forever Strong: A New, Science-Based Strategy for Aging Well;ARE YOU READY TO CHANGE YOUR LIFE?;LINDA Mueller;5;TRUE;18/10/2023;Reviewed in the United States October 18, 2023;1668007878
+679;Forever Strong: A New, Science-Based Strategy for Aging Well;The book we need!!;jjnmama;5;TRUE;17/10/2023;Reviewed in the United States October 17, 2023;1668007878
+680;Where's Spot?;Our favorite classic!;Gao;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;399240462
+681;Where's Spot?;love this book;Pamela Shelley;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;399240462
+682;Where's Spot?;Great book for toddlers;Jen;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;399240462
+683;Where's Spot?;Book;Scarlett;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;399240462
+684;Where's Spot?;she loves it;Elaine Stone;5;TRUE;15/10/2023;Reviewed in the United States October 15, 2023;399240462
+685;Where's Spot?;Great for babies!;Shachi M.;5;TRUE;10/09/2023;Reviewed in the United States September 10, 2023;399240462
+686;Where's Spot?;Great;Amazon Customer;5;TRUE;07/10/2023;Reviewed in the United States October 7, 2023;399240462
+687;Where's Spot?;Nice quality;CS08205;5;TRUE;03/10/2023;Reviewed in the United States October 3, 2023;399240462
+688;Where's Spot?;Perfect;L Doc;5;TRUE;02/10/2023;Reviewed in the United States October 2, 2023;399240462
+689;Where's Spot?;Book;Great quality;5;TRUE;27/09/2023;Reviewed in the United States September 27, 2023;399240462
+690;Demon Copperhead: A Pulitzer Prize Winner;I Found Myself Challenged, and Yes, Strangely Blessed;Stephanie McCall;4;TRUE;10/02/2023;Reviewed in the United States February 10, 2023;63251922
+691;Demon Copperhead: A Pulitzer Prize Winner;A deeply truthful fiction;Dan'l Danehy-Oakes;5;TRUE;19/08/2023;Reviewed in the United States August 19, 2023;63251922
+692;Demon Copperhead: A Pulitzer Prize Winner;More than a Dickens rewrite;Jay Ruud;5;TRUE;20/03/2023;Reviewed in the United States March 20, 2023;63251922
+693;Demon Copperhead: A Pulitzer Prize Winner;Heartbreaking story;Linda S Moore;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;63251922
+694;Demon Copperhead: A Pulitzer Prize Winner;Powerful, thought provoking ~;Michael McClintock;4;TRUE;26/09/2023;Reviewed in the United States September 26, 2023;63251922
+695;Demon Copperhead: A Pulitzer Prize Winner;Fantastic read;jelaine lombardi;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;63251922
+696;Demon Copperhead: A Pulitzer Prize Winner;Resilience in humans- overcoming loss and fears;Terrence J. Witt;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;63251922
+697;Demon Copperhead: A Pulitzer Prize Winner;stunningly perfect;Pajamama;5;TRUE;15/10/2023;Reviewed in the United States October 15, 2023;63251922
+698;Demon Copperhead: A Pulitzer Prize Winner;Give yourself a gift;ronald hansen;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;63251922
+699;Demon Copperhead: A Pulitzer Prize Winner;A Rough Ride of a Story;Amazon Customer;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;63251922
+700;Israel: A Simple Guide to the Most Misunderstood Country on Earth;Israel 101 by an Israeli actress - not a dull history book;a reader;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1982144947
+701;Israel: A Simple Guide to the Most Misunderstood Country on Earth;Helpful guide;AVIshelley;4;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;1982144947
+702;Israel: A Simple Guide to the Most Misunderstood Country on Earth;An easy and fun to read history of ISRAEL;WALTER P. LESER;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;1982144947
+703;Israel: A Simple Guide to the Most Misunderstood Country on Earth;Great Personel Story of Israel;Amazon Customer;4;TRUE;07/10/2023;Reviewed in the United States October 7, 2023;1982144947
+704;Israel: A Simple Guide to the Most Misunderstood Country on Earth;A must read;Adam;5;TRUE;05/11/2023;Reviewed in the United States November 5, 2023;1982144947
+705;Israel: A Simple Guide to the Most Misunderstood Country on Earth;excellent overview;hrd;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1982144947
+706;Israel: A Simple Guide to the Most Misunderstood Country on Earth;A must read;ts;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;1982144947
+707;Israel: A Simple Guide to the Most Misunderstood Country on Earth;Must read;Janna;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;1982144947
+708;Israel: A Simple Guide to the Most Misunderstood Country on Earth;Absolutely amazing;Yael;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1982144947
+709;Israel: A Simple Guide to the Most Misunderstood Country on Earth;Time to revisit this book...;E. Ribeiro;5;TRUE;15/10/2023;Reviewed in the United States October 15, 2023;1982144947
+710;Remarkably Bright Creatures: A Read with Jenna Pick;An Octagonal Delight That Showcases Love, Loss, and Learning from Animals;Alise Cortez;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;63204150
+711;Remarkably Bright Creatures: A Read with Jenna Pick;A Wonderful Start!;Whitney Moore;4;TRUE;30/09/2023;Reviewed in the United States September 30, 2023;63204150
+712;Remarkably Bright Creatures: A Read with Jenna Pick;A Great Read;Susan S.;5;TRUE;16/09/2023;Reviewed in the United States September 16, 2023;63204150
+713;Remarkably Bright Creatures: A Read with Jenna Pick;Best of the Year;Anthony Conty;5;TRUE;12/07/2023;Reviewed in the United States July 12, 2023;63204150
+714;Remarkably Bright Creatures: A Read with Jenna Pick;remarkably excellent!;Rebeca M.;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;63204150
+715;Remarkably Bright Creatures: A Read with Jenna Pick;Super Sweet Story;Jamie and Heather Hejduk;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;63204150
+716;Remarkably Bright Creatures: A Read with Jenna Pick;Skeptical about a book featuring a giant octopus;Allison Calca;5;TRUE;25/09/2023;Reviewed in the United States September 25, 2023;63204150
+717;Remarkably Bright Creatures: A Read with Jenna Pick;Wonderful story!;Two G's;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;63204150
+718;Remarkably Bright Creatures: A Read with Jenna Pick;a happy read;Mz Pip;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;63204150
+719;Remarkably Bright Creatures: A Read with Jenna Pick;Wow;Lorna;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;63204150
+720;Harry Potter Paperback Box Set (Books 1-7);An Important Part of My Childhood, Which I Still Love Over 15 Years Later;Lewis D. Medeiros;5;TRUE;04/12/2016;Reviewed in the United States December 4, 2016;545162076
+721;Harry Potter Paperback Box Set (Books 1-7);Great series, seems to be random what covers you get;CrystalPrime;5;TRUE;05/10/2023;Reviewed in the United States October 5, 2023;545162076
+722;Harry Potter Paperback Box Set (Books 1-7);Fantastic books that EVERYONE should read;Tim B.;5;TRUE;29/08/2023;Reviewed in the United States August 29, 2023;545162076
+723;Harry Potter Paperback Box Set (Books 1-7);Loved the stories, but now I'm suffering Potter withdrawal.;Honest Reviewer;5;TRUE;25/11/2017;Reviewed in the United States November 25, 2017;545162076
+724;Harry Potter Paperback Box Set (Books 1-7);Great Value for Price;Grace Endress;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;545162076
+725;Harry Potter Paperback Box Set (Books 1-7);Such great value;c paahana;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;545162076
+726;Harry Potter Paperback Box Set (Books 1-7);Beautiful Quality;Marcie;5;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;545162076
+727;Harry Potter Paperback Box Set (Books 1-7);Great set;Wes;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;545162076
+728;Harry Potter Paperback Box Set (Books 1-7);Was as described.;Mat H;5;TRUE;02/10/2023;Reviewed in the United States October 2, 2023;545162076
+729;Harry Potter Paperback Box Set (Books 1-7);Nice;Biggerstaff;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;545162076
+730;Just Because;Uplifting;The Golden Bear;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;593622030
+731;Just Because;"""Real"" How to value yourself and others.";Gretchen M. Ashton, Editor, FitDiver Magazine and Fitness Editor, CA Diver Magazine, Author of Heart of the Yucatan;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;593622030
+732;Just Because;Good advice for kids over 12.;Gracie99;4;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;593622030
+733;Just Because;Cute book;Christie alfonso;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;593622030
+734;Just Because;Beautifully written;SuperMama4;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;593622030
+735;Just Because;Purchased for mu grandchildren;Margie Dean;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;593622030
+736;Just Because;Beautiful book!;Seano;5;TRUE;13/10/2023;Reviewed in the United States October 13, 2023;593622030
+737;Just Because;AMAZING BOOK;BrookLynn Mobley;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;593622030
+738;Just Because;A great gift to live by;A. Slater;5;TRUE;16/10/2023;Reviewed in the United States October 16, 2023;593622030
+739;Just Because;Awesome;Daniel Whitehorse;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;593622030
+740;If Animals Kissed Good Night;Our bedtime routine;Emily Traynor;5;TRUE;22/10/2023;Reviewed in the United States October 22, 2023;374300216
+741;If Animals Kissed Good Night;Great children's story;Rebecca Martinsen;5;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;374300216
+742;If Animals Kissed Good Night;great gift;Kelly;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;374300216
+743;If Animals Kissed Good Night;Nice little book;Diane;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;374300216
+744;If Animals Kissed Good Night;Cute!;Penguin;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;374300216
+745;If Animals Kissed Good Night;Toddler loves it, parents do not;Solenopsis;4;TRUE;15/10/2023;Reviewed in the United States October 15, 2023;374300216
+746;If Animals Kissed Good Night;Sweet story;Jean;5;TRUE;14/10/2023;Reviewed in the United States October 14, 2023;374300216
+747;If Animals Kissed Good Night;Lttle kids book;William Kinney;5;TRUE;04/10/2023;Reviewed in the United States October 4, 2023;374300216
+748;If Animals Kissed Good Night;A really cute book!;Lynn Shaw;5;TRUE;07/10/2023;Reviewed in the United States October 7, 2023;374300216
+749;If Animals Kissed Good Night;Love ??;Elizabeth Humphrey;5;TRUE;07/10/2023;Reviewed in the United States October 7, 2023;374300216
+750;Things We Never Got Over (Knockemout);Wow – Knox & Naomi’s Riotous Romance Will Have You In Stitches, But Don’t Forget The Tissues! ...;B. Roscoe;5;TRUE;23/02/2023;Reviewed in the United States February 23, 2023;194563183X
+751;Things We Never Got Over (Knockemout);Grumpy ML, Strong female lead, romance, heartfelt & more!;Briana Bailon;5;TRUE;08/03/2022;Reviewed in the United States March 8, 2022;194563183X
+752;Things We Never Got Over (Knockemout);Sweet small town romance;Samantha;5;TRUE;16/10/2023;Reviewed in the United States October 16, 2023;194563183X
+753;Things We Never Got Over (Knockemout);I didn’t like Knox;Ash;4;TRUE;07/09/2023;Reviewed in the United States September 7, 2023;194563183X
+754;Things We Never Got Over (Knockemout);Really great book about trauma and choosing love over fear! Book is too long though;NCR;4;TRUE;06/07/2022;Reviewed in the United States July 6, 2022;194563183X
+755;Things We Never Got Over (Knockemout);Hot, Emotional Rollercoaster;Sheila;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;194563183X
+756;Things We Never Got Over (Knockemout);Fantastic;Mattie Mercer;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;194563183X
+757;Things We Never Got Over (Knockemout);Love Story and Crime to Solve;Melissa Mary;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;194563183X
+758;Things We Never Got Over (Knockemout);My first romance book was incredible;Anndrea;5;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;194563183X
+759;Things We Never Got Over (Knockemout);this one has mixed opinions... but i loved it!;Elad;4;TRUE;30/08/2023;Reviewed in the United States August 30, 2023;194563183X
+760;Five Silly Turkeys;Colorful book but not what I expected;Lelya S.;4;TRUE;14/10/2023;Reviewed in the United States October 14, 2023;843114169
+761;Five Silly Turkeys;Fun!;Feli05;5;TRUE;13/12/2022;Reviewed in the United States December 13, 2022;843114169
+762;Five Silly Turkeys;Easy reading;MARY ZYDEL;5;TRUE;04/11/2022;Reviewed in the United States November 4, 2022;843114169
+763;Five Silly Turkeys;Wonderful Board Book for Young Children;Debs;5;TRUE;28/01/2022;Reviewed in the United States January 28, 2022;843114169
+764;Five Silly Turkeys;My baby’s favorite book!!;Stina;4;TRUE;03/12/2021;Reviewed in the United States December 3, 2021;843114169
+765;Five Silly Turkeys;Cute for toddlers!;lexieanne;4;TRUE;10/12/2021;Reviewed in the United States December 10, 2021;843114169
+766;Five Silly Turkeys;Cute book!;LP;5;TRUE;06/02/2021;Reviewed in the United States February 6, 2021;843114169
+767;Five Silly Turkeys;Not a thanksgiving book!;Lauren Hickox;2;TRUE;26/08/2023;Reviewed in the United States August 26, 2023;843114169
+768;Five Silly Turkeys;The book has soft feel and scrun;Rhonda;5;TRUE;28/01/2021;Reviewed in the United States January 28, 2021;843114169
+769;Five Silly Turkeys;Short & sweet;Shopper R;5;TRUE;23/11/2020;Reviewed in the United States November 23, 2020;843114169
+770;Paint by Sticker Kids: Christmas: Create 10 Pictures One Sticker at a Time! Includes Glitter Stickers;My kids love these!;Carlos;5;TRUE;12/10/2023;Reviewed in the United States October 12, 2023;152350675X
+771;Paint by Sticker Kids: Christmas: Create 10 Pictures One Sticker at a Time! Includes Glitter Stickers;so fun!;Gina;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;152350675X
+772;Paint by Sticker Kids: Christmas: Create 10 Pictures One Sticker at a Time! Includes Glitter Stickers;Great book;Noname;5;TRUE;12/09/2023;Reviewed in the United States September 12, 2023;152350675X
+773;Paint by Sticker Kids: Christmas: Create 10 Pictures One Sticker at a Time! Includes Glitter Stickers;Love these books;Amy;5;TRUE;06/08/2023;Reviewed in the United States August 6, 2023;152350675X
+774;Paint by Sticker Kids: Christmas: Create 10 Pictures One Sticker at a Time! Includes Glitter Stickers;takes lots of time;Julie;4;TRUE;26/04/2023;Reviewed in the United States April 26, 2023;152350675X
+775;Paint by Sticker Kids: Christmas: Create 10 Pictures One Sticker at a Time! Includes Glitter Stickers;not too hard - not too easy;Lynn Huntoon;5;TRUE;28/07/2023;Reviewed in the United States July 28, 2023;152350675X
+776;Paint by Sticker Kids: Christmas: Create 10 Pictures One Sticker at a Time! Includes Glitter Stickers;Great gift;Recent Customer;5;TRUE;23/07/2023;Reviewed in the United States July 23, 2023;152350675X
+777;Paint by Sticker Kids: Christmas: Create 10 Pictures One Sticker at a Time! Includes Glitter Stickers;Incomplete graphics;austenfan442;4;TRUE;25/01/2023;Reviewed in the United States January 25, 2023;152350675X
+778;Paint by Sticker Kids: Christmas: Create 10 Pictures One Sticker at a Time! Includes Glitter Stickers;Niece loves em;Jackson A;4;TRUE;30/04/2023;Reviewed in the United States April 30, 2023;152350675X
+779;Paint by Sticker Kids: Christmas: Create 10 Pictures One Sticker at a Time! Includes Glitter Stickers;Very cute, but came bent.;KC;4;TRUE;20/09/2021;Reviewed in the United States September 20, 2021;152350675X
+780;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);This is not a hero story;Anne Pruitt;5;TRUE;24/05/2020;Reviewed in the United States May 24, 2020;1338635174
+781;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);Ted Bundy, Coriolanus and The Joker;MJ;5;TRUE;25/07/2020;Reviewed in the United States July 25, 2020;1338635174
+782;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);A fantastic villain origin story;Holly;5;TRUE;09/09/2023;Reviewed in the United States September 9, 2023;1338635174
+783;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);An author's initial perspective on The Ballad of Songbirds and Snakes;L.V. Fucanan;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1338635174
+784;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);Quite the read...;Mama2one;5;TRUE;12/09/2023;Reviewed in the United States September 12, 2023;1338635174
+785;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);If you love the hunger games Buy this Book!!!!;Robert;5;TRUE;16/10/2023;Reviewed in the United States October 16, 2023;1338635174
+786;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);The Ballad of Songbirds and Snakes;Bookgirl13;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1338635174
+787;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);Great Addition to the Series;Dalton O;4;TRUE;27/09/2023;Reviewed in the United States September 27, 2023;1338635174
+788;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);So Good!!!;Kindle Customer;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;1338635174
+789;The Ballad of Songbirds and Snakes (A Hunger Games Novel) (The Hunger Games);Amazing!;Lisa Schwartz;5;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;1338635174
+790;A Court of Wings and Ruin (A Court of Thorns and Roses, 3);Three books review and a little spoilers;jhfreeborn;5;TRUE;30/08/2023;Reviewed in the United States August 30, 2023;1635575605
+791;A Court of Wings and Ruin (A Court of Thorns and Roses, 3);Spoilers!;Ryan Harris;5;TRUE;28/02/2023;Reviewed in the United States February 28, 2023;1635575605
+792;A Court of Wings and Ruin (A Court of Thorns and Roses, 3);The war has come, who will survive and who will lose everything? (SPOILERS);Alyshia;5;TRUE;09/08/2023;Reviewed in the United States August 9, 2023;1635575605
+793;A Court of Wings and Ruin (A Court of Thorns and Roses, 3);I will try my best to make this spoiler-free because SO MUCH happens;Velarisreads;5;TRUE;30/05/2017;Reviewed in the United States May 30, 2017;1635575605
+794;A Court of Wings and Ruin (A Court of Thorns and Roses, 3);Best Read of 2017!;Amazon Customer;5;TRUE;14/05/2017;Reviewed in the United States May 14, 2017;1635575605
+795;A Court of Wings and Ruin (A Court of Thorns and Roses, 3);”For a heartbeat, I weighed who I had been with who I was now supposed to be.”;Melynda Wangsness;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;1635575605
+796;A Court of Wings and Ruin (A Court of Thorns and Roses, 3);Soooo Sooooo, but not worth the hype for me;JJ;3;TRUE;12/09/2023;Reviewed in the United States September 12, 2023;1635575605
+797;A Court of Wings and Ruin (A Court of Thorns and Roses, 3);Keeps getting better!;kathy g;5;TRUE;22/10/2023;Reviewed in the United States October 22, 2023;1635575605
+798;A Court of Wings and Ruin (A Court of Thorns and Roses, 3);Fast paced and addictive;Melissa Mitchell;5;TRUE;22/07/2020;Reviewed in the United States July 22, 2020;1635575605
+799;A Court of Wings and Ruin (A Court of Thorns and Roses, 3);The Story and Writing Are Superb;Alexandria Woods;5;TRUE;10/09/2020;Reviewed in the United States September 10, 2020;1635575605
+800;The Shadow Work Journal 2nd Edition: a Guide to Integrate and Transcend Your Shadows: The Essential Guidebook for Shadow Work;Shadow-Busting Sorcery with Keila Shaheen’s Enchanted Parchment!;Brantler;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;B0BW31X61X
+801;The Shadow Work Journal 2nd Edition: a Guide to Integrate and Transcend Your Shadows: The Essential Guidebook for Shadow Work;THIS BOOK WILL CHANGE YOUR LIFE;Amazon Customer;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;B0BW31X61X
+802;The Shadow Work Journal 2nd Edition: a Guide to Integrate and Transcend Your Shadows: The Essential Guidebook for Shadow Work;Good aid, but work with a therapist;Chasity;4;TRUE;13/10/2023;Reviewed in the United States October 13, 2023;B0BW31X61X
+803;The Shadow Work Journal 2nd Edition: a Guide to Integrate and Transcend Your Shadows: The Essential Guidebook for Shadow Work;Need to buy this book;Chris Fuentes;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;B0BW31X61X
+804;The Shadow Work Journal 2nd Edition: a Guide to Integrate and Transcend Your Shadows: The Essential Guidebook for Shadow Work;helping undo trauma;Elizabeth;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;B0BW31X61X
+805;The Shadow Work Journal 2nd Edition: a Guide to Integrate and Transcend Your Shadows: The Essential Guidebook for Shadow Work;Third Purchase!;Anne;5;TRUE;18/10/2023;Reviewed in the United States October 18, 2023;B0BW31X61X
+806;The Shadow Work Journal 2nd Edition: a Guide to Integrate and Transcend Your Shadows: The Essential Guidebook for Shadow Work;If you aren’t ready to go deep don’t buy it because you aren’t ready to change toxic habits;I brought the wrong size;5;TRUE;22/10/2023;Reviewed in the United States October 22, 2023;B0BW31X61X
+807;The Shadow Work Journal 2nd Edition: a Guide to Integrate and Transcend Your Shadows: The Essential Guidebook for Shadow Work;Get to know yourself;Solarpowered_jess;5;TRUE;17/10/2023;Reviewed in the United States October 17, 2023;B0BW31X61X
+808;The Shadow Work Journal 2nd Edition: a Guide to Integrate and Transcend Your Shadows: The Essential Guidebook for Shadow Work;Great self work;Leigh W.;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;B0BW31X61X
+809;The Shadow Work Journal 2nd Edition: a Guide to Integrate and Transcend Your Shadows: The Essential Guidebook for Shadow Work;Journaling;Ricardo Rios;5;TRUE;06/10/2023;Reviewed in the United States October 6, 2023;B0BW31X61X
+810;Harry Potter and the Prisoner of Azkaban (Harry Potter, Book 3) (MinaLima Edition);LOVEEEEEE!;Custeemade;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;1338815288
+811;Harry Potter and the Prisoner of Azkaban (Harry Potter, Book 3) (MinaLima Edition);Exquisite edition!;Maddy G.;5;TRUE;26/10/2023;Reviewed in the United States October 26, 2023;1338815288
+812;Harry Potter and the Prisoner of Azkaban (Harry Potter, Book 3) (MinaLima Edition);Absolutely STUNNING;Mom's opinion;5;TRUE;07/10/2023;Reviewed in the United States October 7, 2023;1338815288
+813;Harry Potter and the Prisoner of Azkaban (Harry Potter, Book 3) (MinaLima Edition);Beautiful piece of work (I’d argue, piece of history);Christina H;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;1338815288
+814;Harry Potter and the Prisoner of Azkaban (Harry Potter, Book 3) (MinaLima Edition);BEAUTIFUL Book;KLCorbin;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1338815288
+815;Harry Potter and the Prisoner of Azkaban (Harry Potter, Book 3) (MinaLima Edition);Beautiful art;R Ray;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;1338815288
+816;Harry Potter and the Prisoner of Azkaban (Harry Potter, Book 3) (MinaLima Edition);Delicate pull outs but wonderful!;Placeholder;5;TRUE;15/10/2023;Reviewed in the United States October 15, 2023;1338815288
+817;Harry Potter and the Prisoner of Azkaban (Harry Potter, Book 3) (MinaLima Edition);Always love these books!;Sara L;5;TRUE;09/10/2023;Reviewed in the United States October 9, 2023;1338815288
+818;Harry Potter and the Prisoner of Azkaban (Harry Potter, Book 3) (MinaLima Edition);This 3rd installment did not disappoint!;cDub;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1338815288
+819;Harry Potter and the Prisoner of Azkaban (Harry Potter, Book 3) (MinaLima Edition);The most gorgeous editions!;Cassie Jones;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1338815288
+820;Moo, Baa, La La La!;Cute book!;Alexandra L;5;TRUE;15/10/2023;Reviewed in the United States October 15, 2023;067144901X
+821;Moo, Baa, La La La!;Perfect;LAL;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;067144901X
+822;Moo, Baa, La La La!;Love Boynton books!;Chris;5;TRUE;19/10/2023;Reviewed in the United States October 19, 2023;067144901X
+823;Moo, Baa, La La La!;One of my favorite children’s books;Ethan;5;TRUE;05/10/2023;Reviewed in the United States October 5, 2023;067144901X
+824;Moo, Baa, La La La!;Great books;Zina;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;067144901X
+825;Moo, Baa, La La La!;SO FUN TO READ;Kitty D;5;TRUE;10/10/2023;Reviewed in the United States October 10, 2023;067144901X
+826;Moo, Baa, La La La!;So cute!;Kristin H;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;067144901X
+827;Moo, Baa, La La La!;Favorite Author;Dana;5;TRUE;12/10/2023;Reviewed in the United States October 12, 2023;067144901X
+828;Moo, Baa, La La La!;Love!!;D P;5;TRUE;22/10/2023;Reviewed in the United States October 22, 2023;067144901X
+829;Moo, Baa, La La La!;Lovely book!;Maya;5;TRUE;18/10/2023;Reviewed in the United States October 18, 2023;067144901X
+830;The Coworker;A great twisty psychological thriller!;Sharon;4;TRUE;22/10/2023;Reviewed in the United States October 22, 2023;172829620X
+831;The Coworker;Devious and Deadly Drama;Susan M. Baumann;4;TRUE;20/09/2023;Reviewed in the United States September 20, 2023;172829620X
+832;The Coworker;Slow burn ?? but worth it!;Xavier F. Martinez;4;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;172829620X
+833;The Coworker;If this was an AITA post on Reddit… it would be ESH;C. Barnes;4;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;172829620X
+834;The Coworker;What a spin!;M P;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;172829620X
+835;The Coworker;2 Unreliable FMC Make A Right?;Backwoods Bibliophile;4;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;172829620X
+836;The Coworker;YES! Read it!! ….. (Autistic Character, FYI…);Rachael Ashak-Benson;5;TRUE;08/10/2023;Reviewed in the United States October 8, 2023;172829620X
+837;The Coworker;Gripping;Angie C;4;TRUE;02/10/2023;Reviewed in the United States October 2, 2023;172829620X
+838;The Coworker;WOW;Busyblondebookworm;4;TRUE;12/09/2023;Reviewed in the United States September 12, 2023;172829620X
+839;The Coworker;Riveting story;Agnes Shapiro;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;172829620X
+840;Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!;"Empowering Financial Wisdom - ""Rich Dad Poor Dad"" is a Must-Read!";Online Gourmet;5;TRUE;06/07/2023;Reviewed in the United States July 6, 2023;1612681131
+841;Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!;Perfection personified.;Christopher;5;TRUE;06/11/2023;Reviewed in the United States November 6, 2023;1612681131
+842;Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!;This book changed my life;sherritha;5;TRUE;20/10/2023;Reviewed in the United States October 20, 2023;1612681131
+843;Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!;Paradigm shifting knowledge;Mr Raks;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;1612681131
+844;Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!;MUST READ!!;Amazon Customer;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1612681131
+845;Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!;Great read;Cindopup;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;1612681131
+846;Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!;YOU WILL NEVER BE THE SAME AFTER THIS BOOK!;AB1213;5;TRUE;02/10/2023;Reviewed in the United States October 2, 2023;1612681131
+847;Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!;Interesting, accurate and insightful book I recommend for everyone to read it;Itay;5;TRUE;19/10/2023;Reviewed in the United States October 19, 2023;1612681131
+848;Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!;Been wanting for awhile!;Charles;5;TRUE;27/10/2023;Reviewed in the United States October 27, 2023;1612681131
+849;Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!;Most important book you'll ever read!!;James;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1612681131
+850;Percy Jackson and the Olympians: The Chalice of the Gods (Percy Jackson & the Olympians);a good reminder;Courtney Egan;5;TRUE;19/10/2023;Reviewed in the United States October 19, 2023;1368098177
+851;Percy Jackson and the Olympians: The Chalice of the Gods (Percy Jackson & the Olympians);childhood throwback;Luz J;5;TRUE;05/10/2023;Reviewed in the United States October 5, 2023;1368098177
+852;Percy Jackson and the Olympians: The Chalice of the Gods (Percy Jackson & the Olympians);fonts???;Andrew Thomas;5;TRUE;03/10/2023;Reviewed in the United States October 3, 2023;1368098177
+853;Percy Jackson and the Olympians: The Chalice of the Gods (Percy Jackson & the Olympians);Nostalgia and a nice warm Olympian blanket;Akys;5;TRUE;03/10/2023;Reviewed in the United States October 3, 2023;1368098177
+854;Percy Jackson and the Olympians: The Chalice of the Gods (Percy Jackson & the Olympians);Welcome back to the world of Percy Jackson!;Amazon Customer;5;TRUE;05/10/2023;Reviewed in the United States October 5, 2023;1368098177
+855;Percy Jackson and the Olympians: The Chalice of the Gods (Percy Jackson & the Olympians);Low stakes adventure!;Ann;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;1368098177
+856;Percy Jackson and the Olympians: The Chalice of the Gods (Percy Jackson & the Olympians);Loved it!;MHK;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;1368098177
+857;Percy Jackson and the Olympians: The Chalice of the Gods (Percy Jackson & the Olympians);Blast from the past!!;Levi Smith;5;TRUE;29/09/2023;Reviewed in the United States September 29, 2023;1368098177
+858;Percy Jackson and the Olympians: The Chalice of the Gods (Percy Jackson & the Olympians);The Quest for College;acpatrick;4;TRUE;10/10/2023;Reviewed in the United States October 10, 2023;1368098177
+859;Percy Jackson and the Olympians: The Chalice of the Gods (Percy Jackson & the Olympians);Perfect for old AND new fans!;Luiza;5;TRUE;04/11/2023;Reviewed in the United States November 4, 2023;1368098177
+860;Paw Patrol Phonics: 12 Books in 1;Not super easy to read;Mayranavarrete;4;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;553508784
+861;Paw Patrol Phonics: 12 Books in 1;Phonics is the golden way to teach kids to read.;Jangries11;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;553508784
+862;Paw Patrol Phonics: 12 Books in 1;Small and flimsy;Emily Krasco;4;TRUE;12/10/2023;Reviewed in the United States October 12, 2023;553508784
+863;Paw Patrol Phonics: 12 Books in 1;Cute stories, but lower quality;SME;4;TRUE;29/09/2023;Reviewed in the United States September 29, 2023;553508784
+864;Paw Patrol Phonics: 12 Books in 1;Pal paltrol;Stacy;5;TRUE;07/09/2023;Reviewed in the United States September 7, 2023;553508784
+865;Paw Patrol Phonics: 12 Books in 1;Helped encourage our 5-year-old to read;Jeff;5;TRUE;11/07/2023;Reviewed in the United States July 11, 2023;553508784
+866;Paw Patrol Phonics: 12 Books in 1;Great value and cute;Rfinch;5;TRUE;30/06/2023;Reviewed in the United States June 30, 2023;553508784
+867;Paw Patrol Phonics: 12 Books in 1;Decent books;MumShoppingRight;4;TRUE;04/05/2023;Reviewed in the United States May 4, 2023;553508784
+868;Paw Patrol Phonics: 12 Books in 1;You get alot if books;brooke;4;TRUE;22/05/2023;Reviewed in the United States May 22, 2023;553508784
+869;Paw Patrol Phonics: 12 Books in 1;4 and 6 year old both like the books.;Amazon Customer;5;TRUE;05/08/2023;Reviewed in the United States August 5, 2023;553508784
+870;First Little Readers Parent Pack: Guided Reading Level A: 25 Irresistible Books That Are Just the Right Level for Beginning Readers;These have been perfect for my 3 1/2-year-old grandson!!;Karla Winston;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;545231493
+871;First Little Readers Parent Pack: Guided Reading Level A: 25 Irresistible Books That Are Just the Right Level for Beginning Readers;Excelente para que los niños se entregan y al mismo tiempo aprendan.;Cheila;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;545231493
+872;First Little Readers Parent Pack: Guided Reading Level A: 25 Irresistible Books That Are Just the Right Level for Beginning Readers;Wonderful books lost in the mail.;Dave;5;TRUE;13/10/2023;Reviewed in the United States October 13, 2023;545231493
+873;First Little Readers Parent Pack: Guided Reading Level A: 25 Irresistible Books That Are Just the Right Level for Beginning Readers;Worth it;Cortinéy;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;545231493
+874;First Little Readers Parent Pack: Guided Reading Level A: 25 Irresistible Books That Are Just the Right Level for Beginning Readers;My Kindergarteners Love to Read;Amazon Customer;5;TRUE;06/10/2023;Reviewed in the United States October 6, 2023;545231493
+875;First Little Readers Parent Pack: Guided Reading Level A: 25 Irresistible Books That Are Just the Right Level for Beginning Readers;Helpful;Taylor Scalf;5;TRUE;16/09/2023;Reviewed in the United States September 16, 2023;545231493
+876;First Little Readers Parent Pack: Guided Reading Level A: 25 Irresistible Books That Are Just the Right Level for Beginning Readers;GREAT BOOKS FOR A GREAT PRICE;Anthony;5;TRUE;19/09/2023;Reviewed in the United States September 19, 2023;545231493
+877;First Little Readers Parent Pack: Guided Reading Level A: 25 Irresistible Books That Are Just the Right Level for Beginning Readers;Good!;Nathaly;5;TRUE;05/10/2023;Reviewed in the United States October 5, 2023;545231493
+878;First Little Readers Parent Pack: Guided Reading Level A: 25 Irresistible Books That Are Just the Right Level for Beginning Readers;Excellent books for beginning readers!;Theresa King;5;TRUE;16/07/2021;Reviewed in the United States July 16, 2021;545231493
+879;First Little Readers Parent Pack: Guided Reading Level A: 25 Irresistible Books That Are Just the Right Level for Beginning Readers;Nice set;Amazon Customer;5;TRUE;13/09/2023;Reviewed in the United States September 13, 2023;545231493
+880;Hatchet;Wonderful Story for Adolescence;Brian & Sue;5;TRUE;15/10/2023;Reviewed in the United States October 15, 2023;1416936475
+881;Hatchet;Urgent and realistic survival novel;Kari G.;5;TRUE;31/08/2023;Reviewed in the United States August 31, 2023;1416936475
+882;Hatchet;Resilience of a 13 year old;Maria Manges;5;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;1416936475
+883;Hatchet;Good product;Elddys;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;1416936475
+884;Hatchet;Great;Kruella Cakez;5;TRUE;29/10/2023;Reviewed in the United States October 29, 2023;1416936475
+885;Hatchet;Great book;Amazon Customer;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;1416936475
+886;Hatchet;LOVE this book!;Windy Archer;5;TRUE;22/10/2023;Reviewed in the United States October 22, 2023;1416936475
+887;Hatchet;Wisdom in the wilderness;LA in Dallas;5;TRUE;21/12/2022;Reviewed in the United States December 21, 2022;1416936475
+888;Hatchet;Great Read;sandra;5;TRUE;03/10/2023;Reviewed in the United States October 3, 2023;1416936475
+889;Hatchet;Compelling;avid reader;5;TRUE;08/10/2023;Reviewed in the United States October 8, 2023;1416936475
+890;The Wager: A Tale of Shipwreck, Mutiny and Murder;An Extraordinary Tale.;Tom Weikert;5;TRUE;26/09/2023;Reviewed in the United States September 26, 2023;385534264
+891;The Wager: A Tale of Shipwreck, Mutiny and Murder;David Grann Wrote A BigDog Book!;Cramedog;5;TRUE;01/10/2023;Reviewed in the United States October 1, 2023;385534264
+892;The Wager: A Tale of Shipwreck, Mutiny and Murder;Grann's Gift as a Story-Teller on Full Display;Charles Salmans;5;TRUE;16/10/2023;Reviewed in the United States October 16, 2023;385534264
+893;The Wager: A Tale of Shipwreck, Mutiny and Murder;Astonishing tale of castaways battling the elements, starvation, and ultimately each other.;Colonel D;4;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;385534264
+894;The Wager: A Tale of Shipwreck, Mutiny and Murder;Thrilling account of a real voyage that reads like a novel;LindaL;4;TRUE;31/08/2023;Reviewed in the United States August 31, 2023;385534264
+895;The Wager: A Tale of Shipwreck, Mutiny and Murder;"A comment on the ""notes"" in the Kindle version";Scout;5;TRUE;08/10/2023;Reviewed in the United States October 8, 2023;385534264
+896;The Wager: A Tale of Shipwreck, Mutiny and Murder;Masterful;Burns;5;TRUE;23/08/2023;Reviewed in the United States August 23, 2023;385534264
+897;The Wager: A Tale of Shipwreck, Mutiny and Murder;Amazing Story Deftly Written;Cranky Yankee;5;TRUE;21/10/2023;Reviewed in the United States October 21, 2023;385534264
+898;The Wager: A Tale of Shipwreck, Mutiny and Murder;A 1700s Sailing Tale About Survival;Rick Spell;5;TRUE;26/09/2023;Reviewed in the United States September 26, 2023;385534264
+899;The Wager: A Tale of Shipwreck, Mutiny and Murder;Very Good Narrative Nonfiction;bayrider;4;TRUE;09/09/2023;Reviewed in the United States September 9, 2023;385534264
+900;I'm Dead, Now What?: Important Information About My Belongings, Business Affairs, and Wishes;Good resource;Toni Martin;4;TRUE;03/11/2023;Reviewed in the United States November 3, 2023;1441317996
+901;I'm Dead, Now What?: Important Information About My Belongings, Business Affairs, and Wishes;GREAT ORGANIZING TOOL;Wildcat4ever;5;TRUE;13/10/2023;Reviewed in the United States October 13, 2023;1441317996
+902;I'm Dead, Now What?: Important Information About My Belongings, Business Affairs, and Wishes;Peace of mind;Kindle Customer;5;TRUE;09/10/2023;Reviewed in the United States October 9, 2023;1441317996
+903;I'm Dead, Now What?: Important Information About My Belongings, Business Affairs, and Wishes;Be prepared!;Diana;5;TRUE;22/10/2023;Reviewed in the United States October 22, 2023;1441317996
+904;I'm Dead, Now What?: Important Information About My Belongings, Business Affairs, and Wishes;Have a plan;Kelley G;5;TRUE;16/10/2023;Reviewed in the United States October 16, 2023;1441317996
+905;I'm Dead, Now What?: Important Information About My Belongings, Business Affairs, and Wishes;Great product!;Dee;5;TRUE;10/09/2023;Reviewed in the United States September 10, 2023;1441317996
+906;I'm Dead, Now What?: Important Information About My Belongings, Business Affairs, and Wishes;You needed this...;Vivian Busse;5;TRUE;10/09/2023;Reviewed in the United States September 10, 2023;1441317996
+907;I'm Dead, Now What?: Important Information About My Belongings, Business Affairs, and Wishes;Do this for those you love;CUSTOMER;5;TRUE;01/10/2023;Reviewed in the United States October 1, 2023;1441317996
+908;I'm Dead, Now What?: Important Information About My Belongings, Business Affairs, and Wishes;Guidebook for those we leave behind.;Michelle;5;TRUE;18/09/2023;Reviewed in the United States September 18, 2023;1441317996
+909;I'm Dead, Now What?: Important Information About My Belongings, Business Affairs, and Wishes;Trying to plan ahead;R. Yablin;4;TRUE;14/08/2023;Reviewed in the United States August 14, 2023;1441317996
+910;The Wonky Donkey;Donkey Listen and Laugh Along - The Wonky Donkey!;Family Man;5;TRUE;01/09/2023;Reviewed in the United States September 1, 2023;545261244
+911;The Wonky Donkey;Great book! Highly Recommend;Shellie Rouse;5;TRUE;01/11/2023;Reviewed in the United States November 1, 2023;545261244
+912;The Wonky Donkey;Hilarious play on words and rhymes.;Kindle Customer;5;TRUE;28/10/2023;Reviewed in the United States October 28, 2023;545261244
+913;The Wonky Donkey;Great toddler/ 1st reader book;K. Lehigh;5;TRUE;25/10/2023;Reviewed in the United States October 25, 2023;545261244
+914;The Wonky Donkey;Quality & price.;Amazon Customer;5;TRUE;31/10/2023;Reviewed in the United States October 31, 2023;545261244
+915;The Wonky Donkey;The best child/grandmother book ever written;Marilyn Kreienkamp;5;TRUE;02/11/2023;Reviewed in the United States November 2, 2023;545261244
+916;The Wonky Donkey;Great book;Amazon Customer;5;TRUE;30/10/2023;Reviewed in the United States October 30, 2023;545261244
+917;The Wonky Donkey;Fun book, makes you laugh;Jennifer Tinucci;5;TRUE;24/10/2023;Reviewed in the United States October 24, 2023;545261244
+918;The Wonky Donkey;Cutest beck ever!!;Janice Easter;5;TRUE;19/10/2023;Reviewed in the United States October 19, 2023;545261244
+919;The Wonky Donkey;Awesome Book;MC;5;TRUE;23/10/2023;Reviewed in the United States October 23, 2023;545261244
